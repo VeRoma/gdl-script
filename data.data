@@ -1,0 +1,2431 @@
+!
+!   Имя      : исх1.gsm
+!   Дата     : понедельник, 14 июля 2025 г.
+!   Версия   : 27.00
+!   Написан системой Archicad 
+!
+
+mul2     A/392.919689, B/296.227412
+add2     0.05236683032092, 296.2068240903
+drawindex      10
+pen     penAttribute_1
+define style    "AC_STYLE_1" "GOST type A Кириллический", 
+        0.2000000029802,      7,      0
+set style "AC_STYLE_1"
+text2    77.52151535252, -6.492372930847, "87,60"
+pen     penAttribute_2
+text2    77.52151535252, -6.492372930847, "87,55"
+pen     penAttribute_1
+text2    79.96927609954, -8.606695153953, "87,71"
+pen     penAttribute_2
+text2    79.9667531995, -8.606695153953, "87,66"
+pen     penAttribute_1
+text2    69.9667531995, -15.19007563662, "87,52"
+pen     penAttribute_2
+text2    69.9667531995, -15.19007563662, "87,50"
+pen     penAttribute_1
+text2    65.77407024296, -20.01705882378, "87,50"
+pen     penAttribute_2
+text2    65.77407024296, -20.01705882378, "87,50"
+pen     penAttribute_1
+text2    74.46029488008, -10.01705882378, "87,57"
+pen     penAttribute_2
+text2    74.45999848008, -10.01705882378, "87,50"
+pen     penAttribute_1
+text2    79.96704959951, -10.01705882379, "87,73"
+pen     penAttribute_2
+text2    79.96704959951, -10.01705882379, "87,67"
+pen     penAttribute_1
+text2    81.59815132364, -10.01705882378, "87,78"
+pen     penAttribute_2
+text2    81.59815132364, -10.01705882378, "87,73"
+pen     penAttribute_1
+text2    89.96868329953, -17.25338866768, "88,10"
+pen     penAttribute_2
+text2    89.9667531995, -17.25338866768, "88,07"
+pen     penAttribute_1
+text2    57.08814200585, -30.01705882378, "87,50"
+pen     penAttribute_2
+text2    57.08814200585, -30.01705882378, "87,50"
+pen     penAttribute_1
+text2    59.9667531995, -26.70294993977, "87,50"
+pen     penAttribute_2
+text2    59.9667531995, -26.70294993977, "87,50"
+pen     penAttribute_1
+text2    69.9667531995, -20.01705882379, "87,62"
+pen     penAttribute_2
+text2    69.9667531995, -20.01705882379, "87,50"
+pen     penAttribute_1
+text2    79.9667531995, -20.01705882379, "87,89"
+pen     penAttribute_2
+text2    79.9667531995, -20.01705882379, "87,92"
+pen     penAttribute_1
+text2    89.96838689953, -20.01705882379, "88,14"
+pen     penAttribute_2
+text2    89.97090989957, -20.01705882379, "88,11"
+pen     penAttribute_1
+text2    93.16267286203, -20.01705882378, "88,20"
+pen     penAttribute_2
+text2    93.16489946207, -20.01705882378, "88,15"
+pen     penAttribute_1
+text2    99.9667531995, -25.9000821814, "88,37"
+pen     penAttribute_2
+text2    99.9664566995, -25.9000821814, "88,30"
+pen     penAttribute_1
+text2    49.9667531995, -38.21582424291, "87,50"
+pen     penAttribute_2
+text2    49.9664567995, -38.21582424291, "87,54"
+pen     penAttribute_1
+text2    59.9667531995, -30.01705882379, "87,56"
+pen     penAttribute_2
+text2    59.9667531995, -30.01705882379, "87,53"
+pen     penAttribute_1
+text2    69.9667531995, -30.01705882379, "87,83"
+pen     penAttribute_2
+text2    69.9667531995, -30.01705882379, "87,86"
+pen     penAttribute_1
+text2    79.9664566995, -30.01705882379, "88,08"
+pen     penAttribute_2
+text2    79.96868329953, -30.01705882379, "88,10"
+pen     penAttribute_1
+text2    89.9664566995, -30.01705882379, "88,29"
+pen     penAttribute_2
+text2    89.9664566995, -30.01705882379, "88,23"
+pen     penAttribute_1
+text2    99.9661602995, -30.01705882379, "88,46"
+pen     penAttribute_2
+text2    99.9664566995, -30.01705882379, "88,36"
+pen     penAttribute_1
+text2    104.7274909004, -30.01705882378, "88,45"
+pen     penAttribute_2
+text2    104.7274909004, -30.01705882378, "88,40"
+pen     penAttribute_1
+text2    109.9664566996, -34.54728908031, "88,50"
+pen     penAttribute_2
+text2    109.9661602996, -34.54728908031, "88,48"
+pen     penAttribute_1
+text2    116.2931982388, -40.01705882378, "88,70"
+pen     penAttribute_2
+text2    116.2929017388, -40.01705882378, "88,69"
+pen     penAttribute_1
+text2    48.40221376873, -40.01705882378, "87,50"
+pen     penAttribute_2
+text2    48.40221376873, -40.01705882378, "87,55"
+pen     penAttribute_1
+text2    49.96897969954, -40.01705882379, "87,51"
+pen     penAttribute_2
+text2    49.9667531995, -40.01705882379, "87,56"
+pen     penAttribute_1
+text2    59.96704959951, -40.01705882379, "87,78"
+pen     penAttribute_2
+text2    59.96704959951, -40.01705882379, "87,73"
+pen     penAttribute_1
+text2    69.9664566995, -40.01705882379, "88,00"
+pen     penAttribute_2
+text2    69.9667531995, -40.01705882379, "87,95"
+pen     penAttribute_1
+text2    79.9664566995, -40.01705882379, "88,26"
+pen     penAttribute_2
+text2    79.9664566995, -40.01705882379, "88,20"
+pen     penAttribute_1
+text2    89.9661602995, -40.01705882379, "88,45"
+pen     penAttribute_2
+text2    89.9664566995, -40.01705882379, "88,36"
+pen     penAttribute_1
+text2    99.9664566995, -40.01705882379, "88,65"
+pen     penAttribute_2
+text2    99.9661602995, -40.01705882379, "88,48"
+pen     penAttribute_1
+text2    109.9670495995, -40.01705882379, "88,77"
+pen     penAttribute_2
+text2    109.9664566995, -40.01705882379, "88,65"
+pen     penAttribute_1
+text2    119.9686832995, -43.19346920885, "89,01"
+pen     penAttribute_2
+text2    119.9664566995, -43.19346920885, "89,00"
+pen     penAttribute_1
+text2    127.8580161772, -50.01705882378, "89,32"
+pen     penAttribute_2
+text2    127.8602427773, -50.01705882378, "89,13"
+pen     penAttribute_1
+text2    39.71628553162, -50.01705882378, "87,50"
+pen     penAttribute_2
+text2    39.71628553162, -50.01705882378, "87,56"
+pen     penAttribute_1
+text2    39.9667531995, -50.01705882378, "87,50"
+pen     penAttribute_2
+text2    39.9667531995, -50.01705882378, "87,56"
+pen     penAttribute_1
+text2    39.9667531995, -49.72869854605, "87,50"
+pen     penAttribute_2
+text2    39.9667531995, -49.72869854605, "87,56"
+pen     penAttribute_1
+text2    49.96704959951, -50.01705882379, "87,72"
+pen     penAttribute_2
+text2    49.9667531995, -50.01705882379, "87,68"
+pen     penAttribute_1
+text2    59.9664567995, -50.01705882379, "87,94"
+pen     penAttribute_2
+text2    59.96704959951, -50.01705882379, "87,78"
+pen     penAttribute_1
+text2    69.96868329953, -50.01705882379, "88,19"
+pen     penAttribute_2
+text2    69.9667531995, -50.01705882379, "87,99"
+pen     penAttribute_1
+text2    79.9661602995, -50.01705882379, "88,43"
+pen     penAttribute_2
+text2    79.9664566995, -50.01705882379, "88,29"
+pen     penAttribute_1
+text2    89.9664566995, -50.01705882379, "88,65"
+pen     penAttribute_2
+text2    89.9664566995, -50.01705882379, "88,53"
+pen     penAttribute_1
+text2    99.96868329953, -50.01705882379, "88,81"
+pen     penAttribute_2
+text2    99.9664566995, -50.01705882379, "88,96"
+pen     penAttribute_1
+text2    109.9664566995, -50.01705882379, "89,00"
+pen     penAttribute_2
+text2    109.9664566995, -50.01705882379, "89,00"
+pen     penAttribute_1
+text2    119.9686832995, -50.01705882379, "89,21"
+pen     penAttribute_2
+text2    119.9664566995, -50.01705882379, "89,00"
+pen     penAttribute_1
+text2    129.9664566995, -51.84016272258, "89,38"
+pen     penAttribute_2
+text2    129.9686832995, -51.84016272258, "89,18"
+pen     penAttribute_1
+text2    139.4231306156, -60.01705882378, "89,50"
+pen     penAttribute_2
+text2    139.4228342156, -60.01705882378, "89,46"
+pen     penAttribute_1
+text2    296.2227351897, -60.01705882378, "93,00"
+pen     penAttribute_2
+text2    296.2249617897, -60.01705882378, "93,21"
+pen     penAttribute_1
+text2    297.2827237033, -58.77427750388, "93,00"
+pen     penAttribute_2
+text2    297.2849503033, -58.77427750388, "93,12"
+pen     penAttribute_1
+text2    298.7000686992, -60.01705882378, "93,00"
+pen     penAttribute_2
+text2    298.7025916992, -60.01705882378, "93,17"
+pen     penAttribute_1
+text2    29.9667531995, -61.24157284919, "87,47"
+pen     penAttribute_2
+text2    29.9667531995, -61.24157284919, "87,50"
+pen     penAttribute_1
+text2    31.03035729451, -60.01705882378, "87,47"
+pen     penAttribute_2
+text2    31.03035729451, -60.01705882378, "87,50"
+pen     penAttribute_1
+text2    39.9667531995, -60.01705882379, "87,66"
+pen     penAttribute_2
+text2    39.9667531995, -60.01705882379, "87,63"
+pen     penAttribute_1
+text2    49.9667531995, -60.01705882379, "87,88"
+pen     penAttribute_2
+text2    49.9667531995, -60.01705882379, "87,74"
+pen     penAttribute_1
+text2    59.97090989957, -60.01705882379, "88,11"
+pen     penAttribute_2
+text2    59.9667531995, -60.01705882379, "87,89"
+pen     penAttribute_1
+text2    69.9667531995, -60.01705882379, "88,37"
+pen     penAttribute_2
+text2    69.9664566995, -60.01705882379, "88,00"
+pen     penAttribute_1
+text2    79.9664566995, -60.01705882379, "88,68"
+pen     penAttribute_2
+text2    79.9661602995, -60.01705882379, "88,40"
+pen     penAttribute_1
+text2    89.96704959951, -60.01705882379, "88,77"
+pen     penAttribute_2
+text2    89.9664566995, -60.01705882379, "89,00"
+pen     penAttribute_1
+text2    99.9664566995, -60.01705882379, "88,88"
+pen     penAttribute_2
+text2    99.9664566995, -60.01705882379, "89,00"
+pen     penAttribute_1
+text2    109.9686832995, -60.01705882379, "89,16"
+pen     penAttribute_2
+text2    109.9664566995, -60.01705882379, "89,00"
+pen     penAttribute_1
+text2    119.9667531995, -60.01705882379, "89,37"
+pen     penAttribute_2
+text2    119.9709098996, -60.01705882379, "89,11"
+pen     penAttribute_1
+text2    129.9664566995, -60.01705882379, "89,58"
+pen     penAttribute_2
+text2    129.9664566995, -60.01705882379, "89,28"
+pen     penAttribute_1
+text2    139.9664566995, -60.48685623631, "89,50"
+pen     penAttribute_2
+text2    139.9664567995, -60.48685623631, "89,47"
+pen     penAttribute_1
+text2    149.9664566995, -69.13354975003, "90,08"
+pen     penAttribute_2
+text2    149.9664566995, -69.13354975003, "90,02"
+pen     penAttribute_1
+text2    159.9661602995, -77.78024326376, "90,49"
+pen     penAttribute_2
+text2    159.9664566995, -77.78024326376, "90,38"
+pen     penAttribute_1
+text2    287.6935716385, -70.01705882378, "93,00"
+pen     penAttribute_2
+text2    287.6935716385, -70.01705882378, "93,05"
+pen     penAttribute_1
+text2    289.9664566995, -67.35221947892, "93,00"
+pen     penAttribute_2
+text2    289.9664566995, -67.35221947892, "93,06"
+pen     penAttribute_1
+text2    299.9686832995, -61.12747538088, "93,01"
+pen     penAttribute_2
+text2    299.9664566995, -61.12747538088, "93,20"
+pen     penAttribute_1
+text2    309.9664566995, -70.01705882378, "93,32"
+pen     penAttribute_2
+text2    309.9664566995, -70.01705882378, "93,29"
+pen     penAttribute_1
+text2    22.34383615738, -70.01705882378, "87,44"
+pen     penAttribute_2
+text2    22.34413265739, -70.01705882378, "87,45"
+pen     penAttribute_1
+text2    19.9664567995, -72.75444715233, "87,43"
+pen     penAttribute_2
+text2    19.9664567995, -72.75444715233, "87,43"
+pen     penAttribute_1
+text2    29.9667531995, -70.01705882379, "87,60"
+pen     penAttribute_2
+text2    29.9667531995, -70.01705882379, "87,62"
+pen     penAttribute_1
+text2    39.9667531995, -70.01705882379, "87,82"
+pen     penAttribute_2
+text2    39.9667531995, -70.01705882379, "87,82"
+pen     penAttribute_1
+text2    49.9661602995, -70.01705882379, "88,04"
+pen     penAttribute_2
+text2    49.9667531995, -70.01705882379, "87,92"
+pen     penAttribute_1
+text2    59.9664566995, -70.01705882379, "88,30"
+pen     penAttribute_2
+text2    59.9661602995, -70.01705882379, "88,04"
+pen     penAttribute_1
+text2    69.9664566995, -70.01705882379, "88,55"
+pen     penAttribute_2
+text2    69.96868329953, -70.01705882379, "88,18"
+pen     penAttribute_1
+text2    79.9667531995, -70.01705882379, "88,76"
+pen     penAttribute_2
+text2    79.9661602995, -70.01705882379, "88,40"
+pen     penAttribute_1
+text2    89.9667531995, -70.01705882379, "88,79"
+pen     penAttribute_2
+text2    89.9664566995, -70.01705882379, "88,83"
+pen     penAttribute_1
+text2    99.96868329953, -70.01705882379, "89,10"
+pen     penAttribute_2
+text2    99.9664566995, -70.01705882379, "89,00"
+pen     penAttribute_1
+text2    109.9686832995, -70.01705882379, "89,31"
+pen     penAttribute_2
+text2    109.9667531995, -70.01705882379, "89,27"
+pen     penAttribute_1
+text2    119.9664566995, -70.01705882379, "89,52"
+pen     penAttribute_2
+text2    119.9664566995, -70.01705882379, "89,50"
+pen     penAttribute_1
+text2    129.9667531995, -70.01705882379, "89,73"
+pen     penAttribute_2
+text2    129.9664566995, -70.01705882379, "89,50"
+pen     penAttribute_1
+text2    139.9661602995, -70.01705882379, "89,94"
+pen     penAttribute_2
+text2    139.9661602995, -70.01705882379, "89,64"
+pen     penAttribute_1
+text2    149.9664566995, -70.01705882379, "90,09"
+pen     penAttribute_2
+text2    149.9664566995, -70.01705882379, "90,02"
+pen     penAttribute_1
+text2    150.9904716541, -70.01705882378, "90,12"
+pen     penAttribute_2
+text2    150.988245054, -70.01705882378, "90,05"
+pen     penAttribute_1
+text2    279.9686832995, -79.07669860278, "93,01"
+pen     penAttribute_2
+text2    279.9664566995, -79.07669860278, "92,99"
+pen     penAttribute_1
+text2    289.9664566995, -70.01705882379, "93,05"
+pen     penAttribute_2
+text2    289.9689796995, -70.01705882379, "93,17"
+pen     penAttribute_1
+text2    299.9664566995, -70.01705882379, "93,26"
+pen     penAttribute_2
+text2    299.9664566995, -70.01705882379, "93,50"
+pen     penAttribute_1
+text2    319.9667531995, -78.66422646837, "93,75"
+pen     penAttribute_2
+text2    319.9667531995, -78.66422646837, "93,73"
+pen     penAttribute_1
+text2    321.5093107306, -80.01705882378, "93,82"
+pen     penAttribute_2
+text2    321.5096072306, -80.01705882378, "93,78"
+pen     penAttribute_1
+text2    19.9664567995, -77.56031463733, "87,48"
+pen     penAttribute_2
+text2    19.9664567995, -77.56031463733, "87,46"
+pen     penAttribute_1
+text2    29.96704959951, -80.01705882379, "87,75"
+pen     penAttribute_2
+text2    29.9667531995, -80.01705882379, "87,65"
+pen     penAttribute_1
+text2    39.96704959951, -80.01705882379, "87,97"
+pen     penAttribute_2
+text2    39.96704959951, -80.01705882379, "87,97"
+pen     penAttribute_1
+text2    49.9664566995, -80.01705882379, "88,22"
+pen     penAttribute_2
+text2    49.96868329953, -80.01705882379, "88,18"
+pen     penAttribute_1
+text2    59.9661602995, -80.01705882379, "88,45"
+pen     penAttribute_2
+text2    59.9664566995, -80.01705882379, "88,35"
+pen     penAttribute_1
+text2    69.9664566995, -80.01705882379, "88,68"
+pen     penAttribute_2
+text2    69.9664567995, -80.01705882379, "88,47"
+pen     penAttribute_1
+text2    79.96868329953, -80.01705882379, "88,81"
+pen     penAttribute_2
+text2    79.9664566995, -80.01705882379, "88,58"
+pen     penAttribute_1
+text2    89.9664566995, -80.01705882379, "89,05"
+pen     penAttribute_2
+text2    89.9664566995, -80.01705882379, "88,86"
+pen     penAttribute_1
+text2    99.9664566995, -80.01705882379, "89,26"
+pen     penAttribute_2
+text2    99.96868329953, -80.01705882379, "89,12"
+pen     penAttribute_1
+text2    109.9664567995, -80.01705882379, "89,47"
+pen     penAttribute_2
+text2    109.9667531995, -80.01705882379, "89,27"
+pen     penAttribute_1
+text2    119.9664566995, -80.01705882379, "89,68"
+pen     penAttribute_2
+text2    119.9661602995, -80.01705882379, "89,49"
+pen     penAttribute_1
+text2    129.9664566995, -80.01705882379, "89,89"
+pen     penAttribute_2
+text2    129.9664566995, -80.01705882379, "89,62"
+pen     penAttribute_1
+text2    139.9686832995, -80.01705882379, "90,10"
+pen     penAttribute_2
+text2    139.9664566995, -80.01705882379, "89,85"
+pen     penAttribute_1
+text2    149.9686832995, -80.01705882379, "90,31"
+pen     penAttribute_2
+text2    149.9686832995, -80.01705882379, "90,13"
+pen     penAttribute_1
+text2    159.9664566995, -80.01705882379, "90,50"
+pen     penAttribute_2
+text2    159.9683868995, -80.01705882379, "90,41"
+pen     penAttribute_1
+text2    162.5533594924, -80.01705882378, "90,50"
+pen     penAttribute_2
+text2    162.5530630924, -80.01705882378, "90,49"
+pen     penAttribute_1
+text2    169.9686832995, -86.42693677748, "90,81"
+pen     penAttribute_2
+text2    169.9664566995, -86.42693677748, "90,26"
+pen     penAttribute_1
+text2    269.9686832995, -90.80117772664, "93,01"
+pen     penAttribute_2
+text2    269.9664566995, -90.80117772664, "92,95"
+pen     penAttribute_1
+text2    279.1666346873, -80.01705882378, "93,01"
+pen     penAttribute_2
+text2    279.1644080873, -80.01705882378, "92,98"
+pen     penAttribute_1
+text2    279.9664566995, -80.01705882379, "93,02"
+pen     penAttribute_2
+text2    279.9664566995, -80.01705882379, "92,99"
+pen     penAttribute_1
+text2    289.9686832995, -80.01705882379, "93,21"
+pen     penAttribute_2
+text2    289.9664566995, -80.01705882379, "93,50"
+pen     penAttribute_1
+text2    299.9661602995, -80.01705882379, "93,43"
+pen     penAttribute_2
+text2    299.9664566995, -80.01705882379, "93,50"
+pen     penAttribute_1
+text2    309.9664566995, -80.01705882379, "93,65"
+pen     penAttribute_2
+text2    309.9664566995, -80.01705882379, "93,52"
+pen     penAttribute_1
+text2    319.9667531995, -80.01705882379, "93,79"
+pen     penAttribute_2
+text2    319.9667531995, -80.01705882379, "93,73"
+pen     penAttribute_1
+text2    329.9706134996, -87.43260201211, "94,11"
+pen     penAttribute_2
+text2    329.9661602995, -87.43260201211, "94,08"
+pen     penAttribute_1
+text2    332.9133389464, -90.01705882378, "94,24"
+pen     penAttribute_2
+text2    332.9161583464, -90.01705882378, "94,17"
+pen     penAttribute_1
+text2    22.64034471518, -80.01705882378, "87,50"
+pen     penAttribute_2
+text2    22.64034471518, -80.01705882378, "87,50"
+pen     penAttribute_1
+text2    29.9667531995, -86.74924335756, "87,80"
+pen     penAttribute_2
+text2    29.96704959951, -86.74924335756, "87,73"
+pen     penAttribute_1
+text2    33.52300612704, -90.01705882378, "87,98"
+pen     penAttribute_2
+text2    33.52300612704, -90.01705882378, "87,89"
+pen     penAttribute_1
+text2    39.96868329953, -90.01705882379, "88,13"
+pen     penAttribute_2
+text2    39.9664566995, -90.01705882379, "88,25"
+pen     penAttribute_1
+text2    49.9664566995, -90.01705882379, "88,36"
+pen     penAttribute_2
+text2    49.9661602995, -90.01705882379, "88,48"
+pen     penAttribute_1
+text2    59.9664566995, -90.01705882379, "88,59"
+pen     penAttribute_2
+text2    59.9664566995, -90.01705882379, "88,63"
+pen     penAttribute_1
+text2    69.96868329953, -90.01705882379, "88,81"
+pen     penAttribute_2
+text2    69.9667531995, -90.01705882379, "88,72"
+pen     penAttribute_1
+text2    79.9664566995, -90.01705882379, "88,98"
+pen     penAttribute_2
+text2    79.9664566995, -90.01705882379, "88,82"
+pen     penAttribute_1
+text2    89.9664566995, -90.01705882379, "89,20"
+pen     penAttribute_2
+text2    89.96868329953, -90.01705882379, "89,01"
+pen     penAttribute_1
+text2    99.9661602995, -90.01705882379, "89,42"
+pen     penAttribute_2
+text2    99.96868329953, -90.01705882379, "89,21"
+pen     penAttribute_1
+text2    109.9664566995, -90.01705882379, "89,63"
+pen     penAttribute_2
+text2    109.9661602995, -90.01705882379, "89,40"
+pen     penAttribute_1
+text2    119.9661602995, -90.01705882379, "89,84"
+pen     penAttribute_2
+text2    119.9664566995, -90.01705882379, "89,56"
+pen     penAttribute_1
+text2    129.9661602995, -90.01705882379, "90,04"
+pen     penAttribute_2
+text2    129.9664566995, -90.01705882379, "89,80"
+pen     penAttribute_1
+text2    139.9664566995, -90.01705882379, "90,26"
+pen     penAttribute_2
+text2    139.9664566995, -90.01705882379, "90,00"
+pen     penAttribute_1
+text2    149.9661602995, -90.01705882379, "90,46"
+pen     penAttribute_2
+text2    149.9686832995, -90.01705882379, "90,19"
+pen     penAttribute_1
+text2    159.9667531995, -90.01705882379, "90,67"
+pen     penAttribute_2
+text2    159.9661602995, -90.01705882379, "90,42"
+pen     penAttribute_1
+text2    169.9664566995, -90.01705882379, "90,86"
+pen     penAttribute_2
+text2    169.9661602995, -90.01705882379, "90,24"
+pen     penAttribute_1
+text2    174.1184739308, -90.01705882378, "90,99"
+pen     penAttribute_2
+text2    174.1184739308, -90.01705882378, "90,08"
+pen     penAttribute_1
+text2    179.9709098996, -95.07363029121, "91,15"
+pen     penAttribute_2
+text2    179.9661602995, -95.07363029121, "90,42"
+pen     penAttribute_1
+text2    199.9712062996, -105.4750223499, "91,71"
+pen     penAttribute_2
+text2    199.9686832995, -105.4750223499, "91,85"
+pen     penAttribute_1
+text2    254.9291782854, -108.4342139838, "93,01"
+pen     penAttribute_2
+text2    254.9269516854, -108.4342139838, "92,95"
+pen     penAttribute_1
+text2    259.9686832995, -102.5256568505, "93,01"
+pen     penAttribute_2
+text2    259.9686832995, -102.5256568505, "92,91"
+pen     penAttribute_1
+text2    270.640228248, -90.01382625373, "93,01"
+pen     penAttribute_2
+text2    270.638001648, -90.01382625373, "92,95"
+pen     penAttribute_1
+text2    279.9686832995, -90.01705882379, "93,18"
+pen     penAttribute_2
+text2    279.9664566995, -90.01705882379, "93,36"
+pen     penAttribute_1
+text2    289.9664566995, -90.01705882379, "93,39"
+pen     penAttribute_2
+text2    289.9686832995, -90.01705882379, "93,61"
+pen     penAttribute_1
+text2    299.9664566995, -90.01705882379, "93,60"
+pen     penAttribute_2
+text2    299.9686832995, -90.01705882379, "93,61"
+pen     penAttribute_1
+text2    309.9664566995, -90.01705882379, "93,82"
+pen     penAttribute_2
+text2    309.9667531995, -90.01705882379, "93,72"
+pen     penAttribute_1
+text2    319.9661602995, -90.01705882379, "94,03"
+pen     penAttribute_2
+text2    319.9664566995, -90.01705882379, "93,90"
+pen     penAttribute_1
+text2    329.9683868995, -90.01705882379, "94,19"
+pen     penAttribute_2
+text2    329.9661602995, -90.01705882379, "94,09"
+pen     penAttribute_1
+text2    339.9661602995, -96.20097755586, "94,50"
+pen     penAttribute_2
+text2    339.9658638995, -96.20097755586, "94,46"
+pen     penAttribute_1
+text2    344.3185528621, -100.0170588238, "94,57"
+pen     penAttribute_2
+text2    344.3185528621, -100.0170588238, "94,57"
+pen     penAttribute_1
+text2    39.9664566995, -95.93817207779, "88,38"
+pen     penAttribute_2
+text2    39.9661602995, -95.93817207779, "88,43"
+pen     penAttribute_1
+text2    44.4053710389, -100.0170588238, "88,50"
+pen     penAttribute_2
+text2    44.4053710389, -100.0170588238, "88,58"
+pen     penAttribute_1
+text2    49.9664566995, -100.0170588238, "88,50"
+pen     penAttribute_2
+text2    49.9664566995, -100.0170588238, "88,66"
+pen     penAttribute_1
+text2    59.9667531995, -100.0170588238, "88,73"
+pen     penAttribute_2
+text2    59.9664566995, -100.0170588238, "88,85"
+pen     penAttribute_1
+text2    69.9664566995, -100.0170588238, "88,93"
+pen     penAttribute_2
+text2    69.9664566995, -100.0170588238, "88,98"
+pen     penAttribute_1
+text2    79.96868329953, -100.0170588238, "89,15"
+pen     penAttribute_2
+text2    79.9664566995, -100.0170588238, "89,06"
+pen     penAttribute_1
+text2    89.9664566995, -100.0170588238, "89,36"
+pen     penAttribute_2
+text2    89.9664566995, -100.0170588238, "89,22"
+pen     penAttribute_1
+text2    99.9664566995, -100.0170588238, "89,58"
+pen     penAttribute_2
+text2    99.9664566995, -100.0170588238, "89,38"
+pen     penAttribute_1
+text2    109.9667531995, -100.0170588238, "89,78"
+pen     penAttribute_2
+text2    109.9664566995, -100.0170588238, "89,50"
+pen     penAttribute_1
+text2    119.9664566995, -100.0170588238, "89,99"
+pen     penAttribute_2
+text2    119.9664566995, -100.0170588238, "89,68"
+pen     penAttribute_1
+text2    129.9686832995, -100.0170588238, "90,21"
+pen     penAttribute_2
+text2    129.9664566995, -100.0170588238, "89,96"
+pen     penAttribute_1
+text2    139.9661602995, -100.0170588238, "90,42"
+pen     penAttribute_2
+text2    139.9664566995, -100.0170588238, "90,05"
+pen     penAttribute_1
+text2    149.9664566995, -100.0170588238, "90,62"
+pen     penAttribute_2
+text2    149.9661602995, -100.0170588238, "90,24"
+pen     penAttribute_1
+text2    159.9664566995, -100.0170588238, "90,83"
+pen     penAttribute_2
+text2    159.9661602995, -100.0170588238, "90,46"
+pen     penAttribute_1
+text2    169.9683868995, -100.0170588238, "91,04"
+pen     penAttribute_2
+text2    169.9661602995, -100.0170588238, "90,24"
+pen     penAttribute_1
+text2    179.9686832995, -100.0170588238, "91,23"
+pen     penAttribute_2
+text2    179.9661602995, -100.0170588238, "90,34"
+pen     penAttribute_1
+text2    185.6858149693, -100.0170588238, "91,38"
+pen     penAttribute_2
+text2    185.6858149693, -100.0170588238, "91,02"
+pen     penAttribute_1
+text2    189.9686832995, -103.7203238049, "91,50"
+pen     penAttribute_2
+text2    189.9686832995, -103.7203238049, "91,50"
+pen     penAttribute_1
+text2    209.9686832995, -106.0134439261, "91,95"
+pen     penAttribute_2
+text2    209.9664566995, -106.0134439261, "92,08"
+pen     penAttribute_1
+text2    219.9686832995, -106.5518655023, "92,18"
+pen     penAttribute_2
+text2    219.9661602995, -106.5518655023, "92,40"
+pen     penAttribute_1
+text2    229.9661602995, -107.0902870785, "92,42"
+pen     penAttribute_2
+text2    229.9664566995, -107.0902870785, "92,50"
+pen     penAttribute_1
+text2    239.9664566995, -107.6287086547, "92,65"
+pen     penAttribute_2
+text2    239.9670495995, -107.6287086547, "92,77"
+pen     penAttribute_1
+text2    249.9664566995, -108.1671302309, "92,89"
+pen     penAttribute_2
+text2    249.9664566995, -108.1671302309, "92,89"
+pen     penAttribute_1
+text2    262.1083075849, -100.0170588238, "93,01"
+pen     penAttribute_2
+text2    262.1060809849, -100.0170588238, "92,92"
+pen     penAttribute_1
+text2    269.9686832995, -100.0170588238, "93,16"
+pen     penAttribute_2
+text2    269.9664566995, -100.0170588238, "93,06"
+pen     penAttribute_1
+text2    279.9664566995, -100.0170588238, "93,35"
+pen     penAttribute_2
+text2    279.9664566995, -100.0170588238, "93,55"
+pen     penAttribute_1
+text2    289.9664566995, -100.0170588238, "93,56"
+pen     penAttribute_2
+text2    289.9667531995, -100.0170588238, "93,75"
+pen     penAttribute_1
+text2    299.9670495995, -100.0170588238, "93,77"
+pen     penAttribute_2
+text2    299.9664567995, -100.0170588238, "93,74"
+pen     penAttribute_1
+text2    309.9667531995, -100.0170588238, "93,97"
+pen     penAttribute_2
+text2    309.9664566995, -100.0170588238, "93,92"
+pen     penAttribute_1
+text2    319.9683868995, -100.0170588238, "94,19"
+pen     penAttribute_2
+text2    319.9706134996, -100.0170588238, "94,11"
+pen     penAttribute_1
+text2    329.9658638995, -100.0170588238, "94,42"
+pen     penAttribute_2
+text2    329.9658638995, -100.0170588238, "94,34"
+pen     penAttribute_1
+text2    339.9661602995, -100.0170588238, "94,58"
+pen     penAttribute_2
+text2    339.9661602995, -100.0170588238, "94,50"
+pen     penAttribute_1
+text2    349.9664567995, -104.9693530996, "94,87"
+pen     penAttribute_2
+text2    349.9661602995, -104.9693530996, "94,86"
+pen     penAttribute_1
+text2    355.7254003778, -110.0170588238, "95,12"
+pen     penAttribute_2
+text2    355.7234702778, -110.0170588238, "95,07"
+pen     penAttribute_1
+text2    49.96868329953, -105.127100798, "88,61"
+pen     penAttribute_2
+text2    49.96897969954, -105.127100798, "88,71"
+pen     penAttribute_1
+text2    55.28862535077, -110.0170588238, "88,77"
+pen     penAttribute_2
+text2    55.28803245076, -110.0170588238, "88,83"
+pen     penAttribute_1
+text2    59.9664566995, -110.0170588238, "88,88"
+pen     penAttribute_2
+text2    59.96868329953, -110.0170588238, "88,91"
+pen     penAttribute_1
+text2    69.9664566995, -110.0170588238, "89,09"
+pen     penAttribute_2
+text2    69.9664566995, -110.0170588238, "89,09"
+pen     penAttribute_1
+text2    79.96868329953, -110.0170588238, "89,31"
+pen     penAttribute_2
+text2    79.9664566995, -110.0170588238, "89,32"
+pen     penAttribute_1
+text2    89.9664566995, -110.0170588238, "89,52"
+pen     penAttribute_2
+text2    89.9661602995, -110.0170588238, "89,45"
+pen     penAttribute_1
+text2    99.9667531995, -110.0170588238, "89,73"
+pen     penAttribute_2
+text2    99.9664566995, -110.0170588238, "89,50"
+pen     penAttribute_1
+text2    109.9664566995, -110.0170588238, "89,93"
+pen     penAttribute_2
+text2    109.9664566995, -110.0170588238, "89,52"
+pen     penAttribute_1
+text2    119.9686832995, -110.0170588238, "90,15"
+pen     penAttribute_2
+text2    119.9667531995, -110.0170588238, "89,79"
+pen     penAttribute_1
+text2    129.9667531995, -110.0170588238, "90,37"
+pen     penAttribute_2
+text2    129.9664566995, -110.0170588238, "90,00"
+pen     penAttribute_1
+text2    139.9664566995, -110.0170588238, "90,58"
+pen     penAttribute_2
+text2    139.9664566995, -110.0170588238, "90,26"
+pen     penAttribute_1
+text2    149.9667531995, -110.0170588238, "90,78"
+pen     penAttribute_2
+text2    149.9661602995, -110.0170588238, "90,46"
+pen     penAttribute_1
+text2    159.9664566995, -110.0170588238, "90,99"
+pen     penAttribute_2
+text2    159.9664566995, -110.0170588238, "90,33"
+pen     penAttribute_1
+text2    169.9709098996, -110.0170588238, "91,19"
+pen     penAttribute_2
+text2    169.9709098996, -110.0170588238, "90,11"
+pen     penAttribute_1
+text2    179.9683868995, -110.0170588238, "91,40"
+pen     penAttribute_2
+text2    179.9661602995, -110.0170588238, "90,49"
+pen     penAttribute_1
+text2    189.9709098996, -110.0170588238, "91,61"
+pen     penAttribute_2
+text2    189.9683868995, -110.0170588238, "91,48"
+pen     penAttribute_1
+text2    199.9686832995, -110.0170588238, "91,80"
+pen     penAttribute_2
+text2    199.9686832995, -110.0170588238, "91,88"
+pen     penAttribute_1
+text2    209.9664566995, -110.0170588238, "92,03"
+pen     penAttribute_2
+text2    209.9664566995, -110.0170588238, "92,25"
+pen     penAttribute_1
+text2    219.9667531995, -110.0170588238, "92,27"
+pen     penAttribute_2
+text2    219.9664566995, -110.0170588238, "92,50"
+pen     penAttribute_1
+text2    229.9664566995, -110.0170588238, "92,50"
+pen     penAttribute_2
+text2    229.9664566995, -110.0170588238, "92,50"
+pen     penAttribute_1
+text2    239.9667531995, -110.0170588238, "92,72"
+pen     penAttribute_2
+text2    239.9667531995, -110.0170588238, "92,75"
+pen     penAttribute_1
+text2    249.9661602995, -110.0170588238, "92,94"
+pen     penAttribute_2
+text2    249.9664566995, -110.0170588238, "92,93"
+pen     penAttribute_1
+text2    259.9686832995, -110.0170588238, "93,13"
+pen     penAttribute_2
+text2    259.9664566995, -110.0170588238, "93,00"
+pen     penAttribute_1
+text2    269.9664566995, -110.0170588238, "93,32"
+pen     penAttribute_2
+text2    269.9661602995, -110.0170588238, "93,40"
+pen     penAttribute_1
+text2    279.9686832995, -110.0170588238, "93,51"
+pen     penAttribute_2
+text2    279.9664566995, -110.0170588238, "93,63"
+pen     penAttribute_1
+text2    289.9667531995, -110.0170588238, "93,72"
+pen     penAttribute_2
+text2    289.9661602995, -110.0170588238, "93,84"
+pen     penAttribute_1
+text2    299.9664566995, -110.0170588238, "93,92"
+pen     penAttribute_2
+text2    299.9664566995, -110.0170588238, "93,93"
+pen     penAttribute_1
+text2    309.9680904995, -110.0170588238, "94,14"
+pen     penAttribute_2
+text2    309.9683868995, -110.0170588238, "94,13"
+pen     penAttribute_1
+text2    319.9661602995, -110.0170588238, "94,35"
+pen     penAttribute_2
+text2    319.9658638995, -110.0170588238, "94,34"
+pen     penAttribute_1
+text2    329.9664567995, -110.0170588238, "94,57"
+pen     penAttribute_2
+text2    329.9683868995, -110.0170588238, "94,51"
+pen     penAttribute_1
+text2    339.9661602995, -110.0170588238, "94,80"
+pen     penAttribute_2
+text2    339.9661602995, -110.0170588238, "94,80"
+pen     penAttribute_1
+text2    349.9664566995, -110.0170588238, "95,02"
+pen     penAttribute_2
+text2    349.9661602995, -110.0170588238, "94,95"
+pen     penAttribute_1
+text2    359.9664566995, -113.7377286434, "95,28"
+pen     penAttribute_2
+text2    359.9686832995, -113.7377286434, "95,31"
+pen     penAttribute_1
+text2    367.1277947935, -120.0170588238, "95,55"
+pen     penAttribute_2
+text2    367.1277947935, -120.0170588238, "95,62"
+pen     penAttribute_1
+text2    59.9664566995, -114.3160295182, "88,93"
+pen     penAttribute_2
+text2    59.9661602995, -114.3160295182, "88,94"
+pen     penAttribute_1
+text2    69.9664566995, -120.0170588238, "89,25"
+pen     penAttribute_2
+text2    69.9664566995, -120.0170588238, "89,30"
+pen     penAttribute_1
+text2    79.9664567995, -120.0170588238, "89,47"
+pen     penAttribute_2
+text2    79.9664566995, -120.0170588238, "89,50"
+pen     penAttribute_1
+text2    89.9664566995, -120.0170588238, "89,68"
+pen     penAttribute_2
+text2    89.9664566995, -120.0170588238, "89,59"
+pen     penAttribute_1
+text2    99.9664566995, -120.0170588238, "89,88"
+pen     penAttribute_2
+text2    99.9664566995, -120.0170588238, "89,82"
+pen     penAttribute_1
+text2    109.9664566995, -120.0170588238, "90,09"
+pen     penAttribute_2
+text2    109.9664566995, -120.0170588238, "90,00"
+pen     penAttribute_1
+text2    119.9664566995, -120.0170588238, "90,32"
+pen     penAttribute_2
+text2    119.9664566995, -120.0170588238, "90,00"
+pen     penAttribute_1
+text2    129.9664566995, -120.0170588238, "90,53"
+pen     penAttribute_2
+text2    129.9686832995, -120.0170588238, "90,10"
+pen     penAttribute_1
+text2    139.9667531995, -120.0170588238, "90,73"
+pen     penAttribute_2
+text2    139.9661602995, -120.0170588238, "90,48"
+pen     penAttribute_1
+text2    149.9661602995, -120.0170588238, "90,94"
+pen     penAttribute_2
+text2    149.9664566995, -120.0170588238, "90,28"
+pen     penAttribute_1
+text2    159.9686832995, -120.0170588238, "91,20"
+pen     penAttribute_2
+text2    159.9709098996, -120.0170588238, "90,11"
+pen     penAttribute_1
+text2    169.9686832995, -120.0170588238, "91,35"
+pen     penAttribute_2
+text2    169.9664566995, -120.0170588238, "90,38"
+pen     penAttribute_1
+text2    179.9686832995, -120.0170588238, "91,58"
+pen     penAttribute_2
+text2    179.9686832995, -120.0170588238, "91,25"
+pen     penAttribute_1
+text2    189.9686832995, -120.0170588238, "91,85"
+pen     penAttribute_2
+text2    189.9686832995, -120.0170588238, "91,69"
+pen     penAttribute_1
+text2    199.9664566995, -120.0170588238, "92,02"
+pen     penAttribute_2
+text2    199.9686832995, -120.0170588238, "92,01"
+pen     penAttribute_1
+text2    209.9664566995, -120.0170588238, "92,25"
+pen     penAttribute_2
+text2    209.9664566995, -120.0170588238, "92,33"
+pen     penAttribute_1
+text2    219.9661602995, -120.0170588238, "92,45"
+pen     penAttribute_2
+text2    219.9664566995, -120.0170588238, "92,50"
+pen     penAttribute_1
+text2    229.9667531995, -120.0170588238, "92,70"
+pen     penAttribute_2
+text2    229.9664566995, -120.0170588238, "92,59"
+pen     penAttribute_1
+text2    239.9667531995, -120.0170588238, "92,97"
+pen     penAttribute_2
+text2    239.9664566995, -120.0170588238, "92,88"
+pen     penAttribute_1
+text2    249.9686832995, -120.0170588238, "93,13"
+pen     penAttribute_2
+text2    249.9686832995, -120.0170588238, "93,10"
+pen     penAttribute_1
+text2    259.9664566995, -120.0170588238, "93,29"
+pen     penAttribute_2
+text2    259.9664566995, -120.0170588238, "93,22"
+pen     penAttribute_1
+text2    269.9661602995, -120.0170588238, "93,48"
+pen     penAttribute_2
+text2    269.9661602995, -120.0170588238, "93,48"
+pen     penAttribute_1
+text2    279.9667531995, -120.0170588238, "93,57"
+pen     penAttribute_2
+text2    279.9667531995, -120.0170588238, "93,72"
+pen     penAttribute_1
+text2    289.9667531995, -120.0170588238, "93,87"
+pen     penAttribute_2
+text2    289.9664566995, -120.0170588238, "93,92"
+pen     penAttribute_1
+text2    299.9661602995, -120.0170588238, "94,08"
+pen     penAttribute_2
+text2    299.9683868995, -120.0170588238, "94,15"
+pen     penAttribute_1
+text2    309.9661602995, -120.0170588238, "94,29"
+pen     penAttribute_2
+text2    309.9664567995, -120.0170588238, "94,37"
+pen     penAttribute_1
+text2    319.9658638995, -120.0170588238, "94,49"
+pen     penAttribute_2
+text2    319.9661602995, -120.0170588238, "94,55"
+pen     penAttribute_1
+text2    329.9664566995, -120.0170588238, "94,72"
+pen     penAttribute_2
+text2    329.9686832995, -120.0170588238, "94,71"
+pen     penAttribute_1
+text2    339.9661602995, -120.0170588238, "94,95"
+pen     penAttribute_2
+text2    339.9661602995, -120.0170588238, "94,99"
+pen     penAttribute_1
+text2    349.9686832995, -120.0170588238, "95,18"
+pen     penAttribute_2
+text2    349.9686832995, -120.0170588238, "95,18"
+pen     penAttribute_1
+text2    359.9683868995, -120.0170588238, "95,41"
+pen     penAttribute_2
+text2    359.9658638995, -120.0170588238, "95,44"
+pen     penAttribute_1
+text2    369.9664566995, -122.5061041871, "95,65"
+pen     penAttribute_2
+text2    369.9667531995, -122.5061041871, "95,70"
+pen     penAttribute_1
+text2    378.5324158093, -130.0170588238, "95,95"
+pen     penAttribute_2
+text2    378.5324158093, -130.0170588238, "95,95"
+pen     penAttribute_1
+text2    66.17262406266, -120.0170588238, "89,14"
+pen     penAttribute_2
+text2    66.17069386263, -120.0170588238, "89,28"
+pen     penAttribute_1
+text2    69.96868329953, -123.5049582385, "89,31"
+pen     penAttribute_2
+text2    69.9661602995, -123.5049582385, "89,49"
+pen     penAttribute_1
+text2    79.9664566995, -130.0170588238, "89,63"
+pen     penAttribute_2
+text2    79.9667531995, -130.0170588238, "89,67"
+pen     penAttribute_1
+text2    89.9664566995, -130.0170588238, "89,82"
+pen     penAttribute_2
+text2    89.9664566995, -130.0170588238, "89,82"
+pen     penAttribute_1
+text2    99.9664566995, -130.0170588238, "90,03"
+pen     penAttribute_2
+text2    99.9664566995, -130.0170588238, "89,93"
+pen     penAttribute_1
+text2    109.9664566995, -130.0170588238, "90,26"
+pen     penAttribute_2
+text2    109.9664566995, -130.0170588238, "90,03"
+pen     penAttribute_1
+text2    119.9661602995, -130.0170588238, "90,48"
+pen     penAttribute_2
+text2    119.9667531995, -130.0170588238, "90,07"
+pen     penAttribute_1
+text2    129.9664566995, -130.0170588238, "90,69"
+pen     penAttribute_2
+text2    129.9664566995, -130.0170588238, "90,20"
+pen     penAttribute_1
+text2    139.9664566995, -130.0170588238, "90,90"
+pen     penAttribute_2
+text2    139.9664566995, -130.0170588238, "90,39"
+pen     penAttribute_1
+text2    149.9706134996, -130.0170588238, "91,14"
+pen     penAttribute_2
+text2    149.9686832995, -130.0170588238, "90,12"
+pen     penAttribute_1
+text2    159.9683868995, -130.0170588238, "91,34"
+pen     penAttribute_2
+text2    159.9664566995, -130.0170588238, "90,03"
+pen     penAttribute_1
+text2    169.9686832995, -130.0170588238, "91,52"
+pen     penAttribute_2
+text2    169.9667531995, -130.0170588238, "90,75"
+pen     penAttribute_1
+text2    179.9686832995, -130.0170588238, "91,80"
+pen     penAttribute_2
+text2    179.9686832995, -130.0170588238, "91,56"
+pen     penAttribute_1
+text2    189.9664566995, -130.0170588238, "92,20"
+pen     penAttribute_2
+text2    189.9686832995, -130.0170588238, "91,82"
+pen     penAttribute_1
+text2    199.9664566995, -130.0170588238, "92,32"
+pen     penAttribute_2
+text2    199.9664566995, -130.0170588238, "92,06"
+pen     penAttribute_1
+text2    209.9664566995, -130.0170588238, "92,36"
+pen     penAttribute_2
+text2    209.9661602995, -130.0170588238, "92,34"
+pen     penAttribute_1
+text2    219.9664566995, -130.0170588238, "92,50"
+pen     penAttribute_2
+text2    219.9686832995, -130.0170588238, "92,51"
+pen     penAttribute_1
+text2    229.9686832995, -130.0170588238, "92,81"
+pen     penAttribute_2
+text2    229.9664566995, -130.0170588238, "92,80"
+pen     penAttribute_1
+text2    239.9664566995, -130.0170588238, "93,09"
+pen     penAttribute_2
+text2    239.9664566995, -130.0170588238, "93,05"
+pen     penAttribute_1
+text2    249.9664566995, -130.0170588238, "93,29"
+pen     penAttribute_2
+text2    249.9664566995, -130.0170588238, "93,20"
+pen     penAttribute_1
+text2    259.9661602995, -130.0170588238, "93,46"
+pen     penAttribute_2
+text2    259.9664566995, -130.0170588238, "93,38"
+pen     penAttribute_1
+text2    269.9686832995, -130.0170588238, "93,61"
+pen     penAttribute_2
+text2    269.9664566995, -130.0170588238, "93,59"
+pen     penAttribute_1
+text2    279.9661602995, -130.0170588238, "93,64"
+pen     penAttribute_2
+text2    279.9686832995, -130.0170588238, "93,91"
+pen     penAttribute_1
+text2    289.9658638995, -130.0170588238, "94,04"
+pen     penAttribute_2
+text2    289.9661602995, -130.0170588238, "94,00"
+pen     penAttribute_1
+text2    299.9661602995, -130.0170588238, "94,22"
+pen     penAttribute_2
+text2    299.9664567995, -130.0170588238, "94,37"
+pen     penAttribute_1
+text2    309.9658638995, -130.0170588238, "94,43"
+pen     penAttribute_2
+text2    309.9683868995, -130.0170588238, "94,51"
+pen     penAttribute_1
+text2    319.9661602995, -130.0170588238, "94,65"
+pen     penAttribute_2
+text2    319.9664566995, -130.0170588238, "94,72"
+pen     penAttribute_1
+text2    329.9664567995, -130.0170588238, "94,87"
+pen     penAttribute_2
+text2    329.9683868995, -130.0170588238, "94,91"
+pen     penAttribute_1
+text2    339.9664566995, -130.0170588238, "95,09"
+pen     penAttribute_2
+text2    339.9664566995, -130.0170588238, "95,20"
+pen     penAttribute_1
+text2    349.9664566995, -130.0170588238, "95,32"
+pen     penAttribute_2
+text2    349.9664566995, -130.0170588238, "95,36"
+pen     penAttribute_1
+text2    359.9664566995, -130.0170588238, "95,55"
+pen     penAttribute_2
+text2    359.9664566995, -130.0170588238, "95,53"
+pen     penAttribute_1
+text2    369.9667531995, -130.0170588238, "95,79"
+pen     penAttribute_2
+text2    369.9664567995, -130.0170588238, "95,74"
+pen     penAttribute_1
+text2    379.9664566995, -131.2744797308, "95,99"
+pen     penAttribute_2
+text2    379.9664566995, -131.2744797308, "95,99"
+pen     penAttribute_1
+text2    389.9664566995, -140.0170588238, "96,50"
+pen     penAttribute_2
+text2    389.9664566995, -140.0170588238, "96,52"
+pen     penAttribute_1
+text2    77.05335527449, -130.0170588238, "89,58"
+pen     penAttribute_2
+text2    77.05335527449, -130.0170588238, "89,66"
+pen     penAttribute_1
+text2    79.9664566995, -132.6938869587, "89,68"
+pen     penAttribute_2
+text2    79.9667531995, -132.6938869587, "89,73"
+pen     penAttribute_1
+text2    89.9667531995, -140.0170588238, "89,97"
+pen     penAttribute_2
+text2    89.9667531995, -140.0170588238, "89,97"
+pen     penAttribute_1
+text2    99.9664566995, -140.0170588238, "90,20"
+pen     penAttribute_2
+text2    99.9664566995, -140.0170588238, "90,00"
+pen     penAttribute_1
+text2    109.9661602995, -140.0170588238, "90,43"
+pen     penAttribute_2
+text2    109.9664566995, -140.0170588238, "90,28"
+pen     penAttribute_1
+text2    119.9661602995, -140.0170588238, "90,64"
+pen     penAttribute_2
+text2    119.9661602995, -140.0170588238, "90,34"
+pen     penAttribute_1
+text2    129.9664566995, -140.0170588238, "90,85"
+pen     penAttribute_2
+text2    129.9658638995, -140.0170588238, "90,44"
+pen     penAttribute_1
+text2    139.9686832995, -140.0170588238, "91,08"
+pen     penAttribute_2
+text2    139.9664566995, -140.0170588238, "90,20"
+pen     penAttribute_1
+text2    149.9686832995, -140.0170588238, "91,36"
+pen     penAttribute_2
+text2    149.9709098996, -140.0170588238, "90,11"
+pen     penAttribute_1
+text2    159.9686832995, -140.0170588238, "91,47"
+pen     penAttribute_2
+text2    159.9689796995, -140.0170588238, "90,71"
+pen     penAttribute_1
+text2    169.9689796995, -140.0170588238, "91,73"
+pen     penAttribute_2
+text2    169.9689796995, -140.0170588238, "91,37"
+pen     penAttribute_1
+text2    179.9664566995, -140.0170588238, "92,03"
+pen     penAttribute_2
+text2    179.9686832995, -140.0170588238, "91,62"
+pen     penAttribute_1
+text2    189.9661602995, -140.0170588238, "92,40"
+pen     penAttribute_2
+text2    189.9686832995, -140.0170588238, "91,83"
+pen     penAttribute_1
+text2    199.9661602995, -140.0170588238, "92,40"
+pen     penAttribute_2
+text2    199.9664566995, -140.0170588238, "92,06"
+pen     penAttribute_1
+text2    209.9661602995, -140.0170588238, "92,43"
+pen     penAttribute_2
+text2    209.9664566995, -140.0170588238, "92,29"
+pen     penAttribute_1
+text2    219.9664566995, -140.0170588238, "92,50"
+pen     penAttribute_2
+text2    219.9686832995, -140.0170588238, "92,51"
+pen     penAttribute_1
+text2    229.9664566995, -140.0170588238, "92,69"
+pen     penAttribute_2
+text2    229.9664566995, -140.0170588238, "92,89"
+pen     penAttribute_1
+text2    239.9686832995, -140.0170588238, "93,15"
+pen     penAttribute_2
+text2    239.9686832995, -140.0170588238, "93,18"
+pen     penAttribute_1
+text2    249.9658638995, -140.0170588238, "93,44"
+pen     penAttribute_2
+text2    249.9664566995, -140.0170588238, "93,35"
+pen     penAttribute_1
+text2    259.9686832995, -140.0170588238, "93,61"
+pen     penAttribute_2
+text2    259.9661602995, -140.0170588238, "93,48"
+pen     penAttribute_1
+text2    269.9664566995, -140.0170588238, "93,63"
+pen     penAttribute_2
+text2    269.9664566995, -140.0170588238, "93,69"
+pen     penAttribute_1
+text2    279.9661602995, -140.0170588238, "94,02"
+pen     penAttribute_2
+text2    279.9661602995, -140.0170588238, "94,00"
+pen     penAttribute_1
+text2    289.9664567995, -140.0170588238, "94,27"
+pen     penAttribute_2
+text2    289.9683868995, -140.0170588238, "94,16"
+pen     penAttribute_1
+text2    299.9658638995, -140.0170588238, "94,45"
+pen     penAttribute_2
+text2    299.9680904995, -140.0170588238, "94,41"
+pen     penAttribute_1
+text2    309.9664567995, -140.0170588238, "94,57"
+pen     penAttribute_2
+text2    309.9661602995, -140.0170588238, "94,63"
+pen     penAttribute_1
+text2    319.9664566995, -140.0170588238, "94,78"
+pen     penAttribute_2
+text2    319.9661602995, -140.0170588238, "94,88"
+pen     penAttribute_1
+text2    329.9664566995, -140.0170588238, "95,00"
+pen     penAttribute_2
+text2    329.9686832995, -140.0170588238, "95,12"
+pen     penAttribute_1
+text2    339.9664566995, -140.0170588238, "95,23"
+pen     penAttribute_2
+text2    339.9664566995, -140.0170588238, "95,39"
+pen     penAttribute_1
+text2    349.9661602995, -140.0170588238, "95,45"
+pen     penAttribute_2
+text2    349.9661602995, -140.0170588238, "95,54"
+pen     penAttribute_1
+text2    359.9664566995, -140.0170588238, "95,69"
+pen     penAttribute_2
+text2    359.9667531995, -140.0170588238, "95,72"
+pen     penAttribute_1
+text2    369.9664566995, -140.0170588238, "95,93"
+pen     penAttribute_2
+text2    369.9664566995, -140.0170588238, "95,90"
+pen     penAttribute_1
+text2    379.9686832995, -140.0170588238, "96,18"
+pen     penAttribute_2
+text2    379.9664566995, -140.0170588238, "96,22"
+pen     penAttribute_1
+text2    392.7808192128, -142.5108539126, "96,54"
+pen     penAttribute_2
+text2    392.7814121128, -142.5108539126, "96,67"
+pen     penAttribute_1
+text2    87.93572028635, -140.0170588238, "89,94"
+pen     penAttribute_2
+text2    87.93601668635, -140.0170588238, "89,92"
+pen     penAttribute_1
+text2    89.96868329953, -141.8828156789, "90,01"
+pen     penAttribute_2
+text2    89.9667531995, -141.8828156789, "89,97"
+pen     penAttribute_1
+text2    99.9667531995, -150.0170588238, "90,37"
+pen     penAttribute_2
+text2    99.9664566995, -150.0170588238, "90,20"
+pen     penAttribute_1
+text2    109.9664566995, -150.0170588238, "90,59"
+pen     penAttribute_2
+text2    109.9661602995, -150.0170588238, "90,48"
+pen     penAttribute_1
+text2    119.9664566995, -150.0170588238, "90,80"
+pen     penAttribute_2
+text2    119.9664566995, -150.0170588238, "90,36"
+pen     penAttribute_1
+text2    129.9686832995, -150.0170588238, "91,02"
+pen     penAttribute_2
+text2    129.9709098996, -150.0170588238, "90,11"
+pen     penAttribute_1
+text2    139.9686832995, -150.0170588238, "91,29"
+pen     penAttribute_2
+text2    139.9661602995, -150.0170588238, "90,24"
+pen     penAttribute_1
+text2    149.9683868995, -150.0170588238, "91,46"
+pen     penAttribute_2
+text2    149.9664566995, -150.0170588238, "90,85"
+pen     penAttribute_1
+text2    159.9683868995, -150.0170588238, "91,49"
+pen     penAttribute_2
+text2    159.9683868995, -150.0170588238, "91,46"
+pen     penAttribute_1
+text2    169.9689796995, -150.0170588238, "91,73"
+pen     penAttribute_2
+text2    169.9686832995, -150.0170588238, "91,60"
+pen     penAttribute_1
+text2    179.9664566995, -150.0170588238, "92,02"
+pen     penAttribute_2
+text2    179.9712062996, -150.0170588238, "91,71"
+pen     penAttribute_1
+text2    189.9661602995, -150.0170588238, "92,40"
+pen     penAttribute_2
+text2    189.9686832995, -150.0170588238, "91,90"
+pen     penAttribute_1
+text2    199.9661602995, -150.0170588238, "92,40"
+pen     penAttribute_2
+text2    199.9686832995, -150.0170588238, "92,15"
+pen     penAttribute_1
+text2    209.9661602995, -150.0170588238, "92,40"
+pen     penAttribute_2
+text2    209.9661602995, -150.0170588238, "92,43"
+pen     penAttribute_1
+text2    219.9661602995, -150.0170588238, "92,48"
+pen     penAttribute_2
+text2    219.9664566995, -150.0170588238, "92,68"
+pen     penAttribute_1
+text2    229.9661602995, -150.0170588238, "92,84"
+pen     penAttribute_2
+text2    229.9664566995, -150.0170588238, "92,92"
+pen     penAttribute_1
+text2    239.9686832995, -150.0170588238, "93,21"
+pen     penAttribute_2
+text2    239.9664566995, -150.0170588238, "93,22"
+pen     penAttribute_1
+text2    249.9661602995, -150.0170588238, "93,54"
+pen     penAttribute_2
+text2    249.9664566995, -150.0170588238, "93,50"
+pen     penAttribute_1
+text2    259.9664566995, -150.0170588238, "93,68"
+pen     penAttribute_2
+text2    259.9686832995, -150.0170588238, "93,51"
+pen     penAttribute_1
+text2    269.9683868995, -150.0170588238, "94,01"
+pen     penAttribute_2
+text2    269.9661602995, -150.0170588238, "93,84"
+pen     penAttribute_1
+text2    279.9661602995, -150.0170588238, "94,25"
+pen     penAttribute_2
+text2    279.9658638995, -150.0170588238, "94,04"
+pen     penAttribute_1
+text2    289.9658638995, -150.0170588238, "94,49"
+pen     penAttribute_2
+text2    289.9661602995, -150.0170588238, "94,26"
+pen     penAttribute_1
+text2    299.9683868995, -150.0170588238, "94,51"
+pen     penAttribute_2
+text2    299.9658638995, -150.0170588238, "94,49"
+pen     penAttribute_1
+text2    309.9661602995, -150.0170588238, "94,63"
+pen     penAttribute_2
+text2    309.9664566995, -150.0170588238, "94,75"
+pen     penAttribute_1
+text2    319.9661602995, -150.0170588238, "94,92"
+pen     penAttribute_2
+text2    319.9661602995, -150.0170588238, "94,96"
+pen     penAttribute_1
+text2    329.9683868995, -150.0170588238, "95,14"
+pen     penAttribute_2
+text2    329.9664566995, -150.0170588238, "95,26"
+pen     penAttribute_1
+text2    339.9664566995, -150.0170588238, "95,36"
+pen     penAttribute_2
+text2    339.9667531995, -150.0170588238, "95,57"
+pen     penAttribute_1
+text2    349.9664566995, -150.0170588238, "95,59"
+pen     penAttribute_2
+text2    349.9670495995, -150.0170588238, "95,77"
+pen     penAttribute_1
+text2    359.9664566995, -150.0170588238, "95,83"
+pen     penAttribute_2
+text2    359.9661602995, -150.0170588238, "95,94"
+pen     penAttribute_1
+text2    369.9664566995, -150.0170588238, "96,06"
+pen     penAttribute_2
+text2    369.9686832995, -150.0170588238, "96,19"
+pen     penAttribute_1
+text2    379.9686832995, -150.0170588238, "96,31"
+pen     penAttribute_2
+text2    379.9661602995, -150.0170588238, "96,54"
+pen     penAttribute_1
+text2    386.1940968242, -150.0170588238, "96,50"
+pen     penAttribute_2
+text2    386.1940968242, -150.0170588238, "96,68"
+pen     penAttribute_1
+text2    389.9686832995, -145.7182846543, "96,51"
+pen     penAttribute_2
+text2    389.9664566995, -145.7182846543, "96,68"
+pen     penAttribute_1
+text2    98.81867809822, -150.0170588238, "90,35"
+pen     penAttribute_2
+text2    98.82120109825, -150.0170588238, "90,17"
+pen     penAttribute_1
+text2    99.9664566995, -151.0717443992, "90,39"
+pen     penAttribute_2
+text2    99.9661602995, -151.0717443992, "90,24"
+pen     penAttribute_1
+text2    109.9670495995, -160.0170588238, "90,77"
+pen     penAttribute_2
+text2    109.9686832995, -160.0170588238, "90,19"
+pen     penAttribute_1
+text2    119.9667531995, -160.0170588238, "90,97"
+pen     penAttribute_2
+text2    119.9709098996, -160.0170588238, "90,11"
+pen     penAttribute_1
+text2    129.9712062996, -160.0170588238, "91,17"
+pen     penAttribute_2
+text2    129.9664566995, -160.0170588238, "90,53"
+pen     penAttribute_1
+text2    139.9686832995, -160.0170588238, "91,38"
+pen     penAttribute_2
+text2    139.9686832995, -160.0170588238, "91,00"
+pen     penAttribute_1
+text2    149.9686832995, -160.0170588238, "91,62"
+pen     penAttribute_2
+text2    149.9686832995, -160.0170588238, "91,50"
+pen     penAttribute_1
+text2    159.9709098996, -160.0170588238, "91,81"
+pen     penAttribute_2
+text2    159.9709098996, -160.0170588238, "91,61"
+pen     penAttribute_1
+text2    169.9689796995, -160.0170588238, "92,17"
+pen     penAttribute_2
+text2    169.9686832995, -160.0170588238, "91,68"
+pen     penAttribute_1
+text2    179.9664566995, -160.0170588238, "92,22"
+pen     penAttribute_2
+text2    179.9709098996, -160.0170588238, "91,81"
+pen     penAttribute_1
+text2    189.9686832995, -160.0170588238, "92,19"
+pen     penAttribute_2
+text2    189.9689796995, -160.0170588238, "91,97"
+pen     penAttribute_1
+text2    199.9661602995, -160.0170588238, "92,40"
+pen     penAttribute_2
+text2    199.9664566995, -160.0170588238, "92,20"
+pen     penAttribute_1
+text2    209.9661602995, -160.0170588238, "92,40"
+pen     penAttribute_2
+text2    209.9661602995, -160.0170588238, "92,46"
+pen     penAttribute_1
+text2    219.9664566995, -160.0170588238, "92,59"
+pen     penAttribute_2
+text2    219.9686832995, -160.0170588238, "92,81"
+pen     penAttribute_1
+text2    229.9664566995, -160.0170588238, "92,95"
+pen     penAttribute_2
+text2    229.9664566995, -160.0170588238, "93,02"
+pen     penAttribute_1
+text2    239.9661602995, -160.0170588238, "93,34"
+pen     penAttribute_2
+text2    239.9664566995, -160.0170588238, "93,30"
+pen     penAttribute_1
+text2    249.9664566995, -160.0170588238, "93,66"
+pen     penAttribute_2
+text2    249.9664566995, -160.0170588238, "93,55"
+pen     penAttribute_1
+text2    259.9664566995, -160.0170588238, "93,95"
+pen     penAttribute_2
+text2    259.9667531995, -160.0170588238, "93,79"
+pen     penAttribute_1
+text2    269.9661602995, -160.0170588238, "94,22"
+pen     penAttribute_2
+text2    269.9664566995, -160.0170588238, "93,99"
+pen     penAttribute_1
+text2    279.9661602995, -160.0170588238, "94,47"
+pen     penAttribute_2
+text2    279.9661602995, -160.0170588238, "94,20"
+pen     penAttribute_1
+text2    289.9683868995, -160.0170588238, "94,51"
+pen     penAttribute_2
+text2    289.9658638995, -160.0170588238, "94,40"
+pen     penAttribute_1
+text2    299.9661602995, -160.0170588238, "94,56"
+pen     penAttribute_2
+text2    299.9683868995, -160.0170588238, "94,61"
+pen     penAttribute_1
+text2    309.9664566995, -160.0170588238, "95,02"
+pen     penAttribute_2
+text2    309.9661602995, -160.0170588238, "94,86"
+pen     penAttribute_1
+text2    319.9686832995, -160.0170588238, "95,18"
+pen     penAttribute_2
+text2    319.9689796995, -160.0170588238, "95,17"
+pen     penAttribute_1
+text2    329.9664566995, -160.0170588238, "95,26"
+pen     penAttribute_2
+text2    329.9686832995, -160.0170588238, "95,51"
+pen     penAttribute_1
+text2    339.9661602995, -160.0170588238, "95,49"
+pen     penAttribute_2
+text2    339.9664566995, -160.0170588238, "95,80"
+pen     penAttribute_1
+text2    349.9667531995, -160.0170588238, "95,72"
+pen     penAttribute_2
+text2    349.9664566995, -160.0170588238, "96,03"
+pen     penAttribute_1
+text2    359.9664566995, -160.0170588238, "95,95"
+pen     penAttribute_2
+text2    359.9664566995, -160.0170588238, "96,23"
+pen     penAttribute_1
+text2    369.9686832995, -160.0170588238, "96,19"
+pen     penAttribute_2
+text2    369.9664566995, -160.0170588238, "96,52"
+pen     penAttribute_1
+text2    377.4183688093, -160.0170588238, "96,48"
+pen     penAttribute_2
+text2    377.4186652093, -160.0170588238, "96,66"
+pen     penAttribute_1
+text2    379.9661602995, -157.1137355435, "96,49"
+pen     penAttribute_2
+text2    379.9664566995, -157.1137355435, "96,68"
+pen     penAttribute_1
+text2    109.7019324101, -160.0170588238, "90,77"
+pen     penAttribute_2
+text2    109.7013395101, -160.0170588238, "90,20"
+pen     penAttribute_1
+text2    109.9667531995, -160.2606731194, "90,78"
+pen     penAttribute_2
+text2    109.9686832995, -160.2606731194, "90,18"
+pen     penAttribute_1
+text2    119.9709098996, -169.4496018396, "91,19"
+pen     penAttribute_2
+text2    119.9712062996, -169.4496018396, "91,17"
+pen     penAttribute_1
+text2    129.9683868995, -170.0170588238, "91,34"
+pen     penAttribute_2
+text2    129.9686832995, -170.0170588238, "91,36"
+pen     penAttribute_1
+text2    139.9689796995, -170.0170588238, "91,57"
+pen     penAttribute_2
+text2    139.9686832995, -170.0170588238, "91,50"
+pen     penAttribute_1
+text2    149.9686832995, -170.0170588238, "91,85"
+pen     penAttribute_2
+text2    149.9689796995, -170.0170588238, "91,67"
+pen     penAttribute_1
+text2    159.9664566995, -170.0170588238, "92,25"
+pen     penAttribute_2
+text2    159.9686832995, -170.0170588238, "91,74"
+pen     penAttribute_1
+text2    169.9686832995, -170.0170588238, "95,13"
+pen     penAttribute_2
+text2    169.9692760995, -170.0170588238, "91,77"
+pen     penAttribute_1
+text2    179.9664566995, -170.0170588238, "93,56"
+pen     penAttribute_2
+text2    179.9683868995, -170.0170588238, "91,84"
+pen     penAttribute_1
+text2    189.9664566995, -170.0170588238, "92,30"
+pen     penAttribute_2
+text2    189.9689796995, -170.0170588238, "91,97"
+pen     penAttribute_1
+text2    199.9664566995, -170.0170588238, "92,36"
+pen     penAttribute_2
+text2    199.9664566995, -170.0170588238, "92,32"
+pen     penAttribute_1
+text2    209.9664566995, -170.0170588238, "92,53"
+pen     penAttribute_2
+text2    209.9664566995, -170.0170588238, "92,60"
+pen     penAttribute_1
+text2    219.9667531995, -170.0170588238, "92,78"
+pen     penAttribute_2
+text2    219.9686832995, -170.0170588238, "92,81"
+pen     penAttribute_1
+text2    229.9667531995, -170.0170588238, "93,07"
+pen     penAttribute_2
+text2    229.9664566995, -170.0170588238, "93,00"
+pen     penAttribute_1
+text2    239.9664567995, -170.0170588238, "93,47"
+pen     penAttribute_2
+text2    239.9664566995, -170.0170588238, "93,25"
+pen     penAttribute_1
+text2    249.9667531995, -170.0170588238, "93,76"
+pen     penAttribute_2
+text2    249.9686832995, -170.0170588238, "93,51"
+pen     penAttribute_1
+text2    259.9658638995, -170.0170588238, "94,04"
+pen     penAttribute_2
+text2    259.9661602995, -170.0170588238, "94,00"
+pen     penAttribute_1
+text2    269.9661602995, -170.0170588238, "94,32"
+pen     penAttribute_2
+text2    269.9683868995, -170.0170588238, "94,13"
+pen     penAttribute_1
+text2    279.9683868995, -170.0170588238, "94,51"
+pen     penAttribute_2
+text2    279.9661602995, -170.0170588238, "94,33"
+pen     penAttribute_1
+text2    289.9661602995, -170.0170588238, "94,53"
+pen     penAttribute_2
+text2    289.9664567995, -170.0170588238, "94,57"
+pen     penAttribute_1
+text2    299.9667531995, -170.0170588238, "95,07"
+pen     penAttribute_2
+text2    299.9683868995, -170.0170588238, "94,81"
+pen     penAttribute_1
+text2    309.9689796995, -170.0170588238, "95,17"
+pen     penAttribute_2
+text2    309.9664566995, -170.0170588238, "95,00"
+pen     penAttribute_1
+text2    319.9686832995, -170.0170588238, "95,21"
+pen     penAttribute_2
+text2    319.9661602995, -170.0170588238, "95,43"
+pen     penAttribute_1
+text2    329.9661602995, -170.0170588238, "95,45"
+pen     penAttribute_2
+text2    329.9664567995, -170.0170588238, "95,74"
+pen     penAttribute_1
+text2    339.9686832995, -170.0170588238, "95,61"
+pen     penAttribute_2
+text2    339.9664566995, -170.0170588238, "96,02"
+pen     penAttribute_1
+text2    349.9661602995, -170.0170588238, "95,84"
+pen     penAttribute_2
+text2    349.9664566995, -170.0170588238, "96,25"
+pen     penAttribute_1
+text2    359.9664566995, -170.0170588238, "96,08"
+pen     penAttribute_2
+text2    359.9664566995, -170.0170588238, "96,50"
+pen     penAttribute_1
+text2    368.6429371943, -170.0170588238, "96,46"
+pen     penAttribute_2
+text2    368.6454601944, -170.0170588238, "96,61"
+pen     penAttribute_1
+text2    369.9664567995, -168.5091864327, "96,47"
+pen     penAttribute_2
+text2    369.9686832995, -168.5091864327, "96,61"
+pen     penAttribute_1
+text2    129.9683868995, -178.6385305599, "91,54"
+pen     penAttribute_2
+text2    129.9686832995, -178.6385305599, "91,68"
+pen     penAttribute_1
+text2    131.4688889338, -180.0170588238, "91,58"
+pen     penAttribute_2
+text2    131.4691853338, -180.0170588238, "91,72"
+pen     penAttribute_1
+text2    139.9689796995, -180.0170588238, "91,73"
+pen     penAttribute_2
+text2    139.9689796995, -180.0170588238, "91,73"
+pen     penAttribute_1
+text2    149.9686832995, -180.0170588238, "91,98"
+pen     penAttribute_2
+text2    149.9683868995, -180.0170588238, "91,84"
+pen     penAttribute_1
+text2    159.9664566995, -180.0170588238, "92,99"
+pen     penAttribute_2
+text2    159.9686832995, -180.0170588238, "91,89"
+pen     penAttribute_1
+text2    169.9683868995, -180.0170588238, "93,41"
+pen     penAttribute_2
+text2    169.9686832995, -180.0170588238, "91,89"
+pen     penAttribute_1
+text2    179.9661602995, -180.0170588238, "92,34"
+pen     penAttribute_2
+text2    179.9683868995, -180.0170588238, "91,94"
+pen     penAttribute_1
+text2    189.9664566995, -180.0170588238, "92,28"
+pen     penAttribute_2
+text2    189.9664566995, -180.0170588238, "92,00"
+pen     penAttribute_1
+text2    199.9661602995, -180.0170588238, "92,42"
+pen     penAttribute_2
+text2    199.9686832995, -180.0170588238, "92,51"
+pen     penAttribute_1
+text2    209.9664566995, -180.0170588238, "92,68"
+pen     penAttribute_2
+text2    209.9667531995, -180.0170588238, "92,97"
+pen     penAttribute_1
+text2    219.9664566995, -180.0170588238, "92,90"
+pen     penAttribute_2
+text2    219.9661602995, -180.0170588238, "92,94"
+pen     penAttribute_1
+text2    229.9664566995, -180.0170588238, "93,23"
+pen     penAttribute_2
+text2    229.9664566995, -180.0170588238, "93,06"
+pen     penAttribute_1
+text2    239.9686832995, -180.0170588238, "93,51"
+pen     penAttribute_2
+text2    239.9661602995, -180.0170588238, "93,40"
+pen     penAttribute_1
+text2    249.9667531995, -180.0170588238, "93,79"
+pen     penAttribute_2
+text2    249.9664566995, -180.0170588238, "93,68"
+pen     penAttribute_1
+text2    259.9661602995, -180.0170588238, "94,06"
+pen     penAttribute_2
+text2    259.9664566995, -180.0170588238, "93,96"
+pen     penAttribute_1
+text2    269.9658638995, -180.0170588238, "94,34"
+pen     penAttribute_2
+text2    269.9661602995, -180.0170588238, "94,32"
+pen     penAttribute_1
+text2    279.9658638995, -180.0170588238, "94,64"
+pen     penAttribute_2
+text2    279.9661602995, -180.0170588238, "94,50"
+pen     penAttribute_1
+text2    289.9661602995, -180.0170588238, "94,88"
+pen     penAttribute_2
+text2    289.9664566995, -180.0170588238, "94,79"
+pen     penAttribute_1
+text2    299.9686832995, -180.0170588238, "95,13"
+pen     penAttribute_2
+text2    299.9664566995, -180.0170588238, "95,02"
+pen     penAttribute_1
+text2    309.9664566995, -180.0170588238, "95,20"
+pen     penAttribute_2
+text2    309.9661602995, -180.0170588238, "95,54"
+pen     penAttribute_1
+text2    319.9664567995, -180.0170588238, "95,47"
+pen     penAttribute_2
+text2    319.9664566995, -180.0170588238, "95,62"
+pen     penAttribute_1
+text2    329.9667531995, -180.0170588238, "95,75"
+pen     penAttribute_2
+text2    329.9667531995, -180.0170588238, "95,72"
+pen     penAttribute_1
+text2    339.9667531995, -180.0170588238, "95,79"
+pen     penAttribute_2
+text2    339.9686832995, -180.0170588238, "96,16"
+pen     penAttribute_1
+text2    349.9664566995, -180.0170588238, "95,95"
+pen     penAttribute_2
+text2    349.9664566995, -180.0170588238, "96,50"
+pen     penAttribute_1
+text2    359.8675055794, -180.0170588238, "96,45"
+pen     penAttribute_2
+text2    359.8678019794, -180.0170588238, "96,55"
+pen     penAttribute_1
+text2    359.9661602995, -179.904637322, "96,45"
+pen     penAttribute_2
+text2    359.9664566995, -179.904637322, "96,55"
+pen     penAttribute_1
+text2    139.9686832995, -187.8274592801, "91,88"
+pen     penAttribute_2
+text2    139.9686832995, -187.8274592801, "91,96"
+pen     penAttribute_1
+text2    142.3518467457, -190.0170588238, "91,97"
+pen     penAttribute_2
+text2    142.3493237457, -190.0170588238, "92,02"
+pen     penAttribute_1
+text2    149.9709098996, -190.0170588238, "92,11"
+pen     penAttribute_2
+text2    149.9686832995, -190.0170588238, "92,21"
+pen     penAttribute_1
+text2    159.9664566995, -190.0170588238, "92,25"
+pen     penAttribute_2
+text2    159.9686832995, -190.0170588238, "92,10"
+pen     penAttribute_1
+text2    169.9686832995, -190.0170588238, "95,15"
+pen     penAttribute_2
+text2    169.9664566995, -190.0170588238, "92,00"
+pen     penAttribute_1
+text2    179.9664566995, -190.0170588238, "92,38"
+pen     penAttribute_2
+text2    179.9664566995, -190.0170588238, "92,00"
+pen     penAttribute_1
+text2    189.9664566995, -190.0170588238, "92,30"
+pen     penAttribute_2
+text2    189.9664566995, -190.0170588238, "92,00"
+pen     penAttribute_1
+text2    199.9686832995, -190.0170588238, "92,61"
+pen     penAttribute_2
+text2    199.9664566995, -190.0170588238, "92,56"
+pen     penAttribute_1
+text2    209.9664566995, -190.0170588238, "92,92"
+pen     penAttribute_2
+text2    209.9664566995, -190.0170588238, "93,00"
+pen     penAttribute_1
+text2    219.9661602995, -190.0170588238, "93,04"
+pen     penAttribute_2
+text2    219.9664566995, -190.0170588238, "93,06"
+pen     penAttribute_1
+text2    229.9664566995, -190.0170588238, "93,25"
+pen     penAttribute_2
+text2    229.9686832995, -190.0170588238, "93,18"
+pen     penAttribute_1
+text2    239.9664567995, -190.0170588238, "93,47"
+pen     penAttribute_2
+text2    239.9658638995, -190.0170588238, "93,44"
+pen     penAttribute_1
+text2    249.9667531995, -190.0170588238, "93,78"
+pen     penAttribute_2
+text2    249.9664566995, -190.0170588238, "93,83"
+pen     penAttribute_1
+text2    259.9683868995, -190.0170588238, "94,18"
+pen     penAttribute_2
+text2    259.9683868995, -190.0170588238, "94,18"
+pen     penAttribute_1
+text2    269.9655674995, -190.0170588238, "94,44"
+pen     penAttribute_2
+text2    269.9658638995, -190.0170588238, "94,49"
+pen     penAttribute_1
+text2    279.9658638995, -190.0170588238, "94,54"
+pen     penAttribute_2
+text2    279.9664566995, -190.0170588238, "94,79"
+pen     penAttribute_1
+text2    289.9664566995, -190.0170588238, "95,00"
+pen     penAttribute_2
+text2    289.9664566995, -190.0170588238, "95,09"
+pen     penAttribute_1
+text2    299.9686832995, -190.0170588238, "95,31"
+pen     penAttribute_2
+text2    299.9661602995, -190.0170588238, "95,42"
+pen     penAttribute_1
+text2    309.9664566995, -190.0170588238, "95,50"
+pen     penAttribute_2
+text2    309.9664566995, -190.0170588238, "95,60"
+pen     penAttribute_1
+text2    319.9667531995, -190.0170588238, "95,75"
+pen     penAttribute_2
+text2    319.9667531995, -190.0170588238, "95,73"
+pen     penAttribute_1
+text2    329.9667531995, -190.0170588238, "95,79"
+pen     penAttribute_2
+text2    329.9664566995, -190.0170588238, "95,85"
+pen     penAttribute_1
+text2    339.9664566995, -190.0170588238, "95,85"
+pen     penAttribute_2
+text2    339.9686832995, -190.0170588238, "96,13"
+pen     penAttribute_1
+text2    349.9664566995, -190.0170588238, "96,35"
+pen     penAttribute_2
+text2    349.9664566995, -190.0170588238, "96,50"
+pen     penAttribute_1
+text2    351.0943005645, -190.0170588238, "96,41"
+pen     penAttribute_2
+text2    351.0923703644, -190.0170588238, "96,50"
+pen     penAttribute_1
+text2    349.9661602995, -191.3000882112, "96,40"
+pen     penAttribute_2
+text2    349.9664566995, -191.3000882112, "96,50"
+pen     penAttribute_1
+text2    149.9667531995, -197.0163880003, "92,27"
+pen     penAttribute_2
+text2    149.9661602995, -197.0163880003, "92,48"
+pen     penAttribute_1
+text2    153.2316887575, -200.0170588238, "92,40"
+pen     penAttribute_2
+text2    153.2319851575, -200.0170588238, "92,50"
+pen     penAttribute_1
+text2    159.9661602995, -200.0170588238, "92,46"
+pen     penAttribute_2
+text2    159.9664566995, -200.0170588238, "92,50"
+pen     penAttribute_1
+text2    169.9686832995, -200.0170588238, "92,31"
+pen     penAttribute_2
+text2    169.9664566995, -200.0170588238, "92,20"
+pen     penAttribute_1
+text2    179.9664566995, -200.0170588238, "92,29"
+pen     penAttribute_2
+text2    179.9664566995, -200.0170588238, "92,28"
+pen     penAttribute_1
+text2    189.9664566995, -200.0170588238, "92,50"
+pen     penAttribute_2
+text2    189.9664566995, -200.0170588238, "92,62"
+pen     penAttribute_1
+text2    199.9664566995, -200.0170588238, "92,88"
+pen     penAttribute_2
+text2    199.9664566995, -200.0170588238, "92,96"
+pen     penAttribute_1
+text2    209.9689796995, -200.0170588238, "93,17"
+pen     penAttribute_2
+text2    209.9664566995, -200.0170588238, "93,09"
+pen     penAttribute_1
+text2    219.9664566995, -200.0170588238, "93,25"
+pen     penAttribute_2
+text2    219.9664566995, -200.0170588238, "93,22"
+pen     penAttribute_1
+text2    229.9664566995, -200.0170588238, "93,30"
+pen     penAttribute_2
+text2    229.9661602995, -200.0170588238, "93,34"
+pen     penAttribute_1
+text2    239.9661602995, -200.0170588238, "93,42"
+pen     penAttribute_2
+text2    239.9664567995, -200.0170588238, "93,47"
+pen     penAttribute_1
+text2    249.9664566995, -200.0170588238, "93,66"
+pen     penAttribute_2
+text2    249.9683868995, -200.0170588238, "94,01"
+pen     penAttribute_1
+text2    259.9661602995, -200.0170588238, "94,33"
+pen     penAttribute_2
+text2    259.9658638995, -200.0170588238, "94,45"
+pen     penAttribute_1
+text2    269.9658638995, -200.0170588238, "94,49"
+pen     penAttribute_2
+text2    269.9661602995, -200.0170588238, "94,58"
+pen     penAttribute_1
+text2    279.9661602995, -200.0170588238, "94,53"
+pen     penAttribute_2
+text2    279.9658638995, -200.0170588238, "94,84"
+pen     penAttribute_1
+text2    289.9658638995, -200.0170588238, "94,94"
+pen     penAttribute_2
+text2    289.9683868995, -200.0170588238, "95,14"
+pen     penAttribute_1
+text2    299.9661602995, -200.0170588238, "95,48"
+pen     penAttribute_2
+text2    299.9664567995, -200.0170588238, "95,47"
+pen     penAttribute_1
+text2    309.9664567995, -200.0170588238, "95,74"
+pen     penAttribute_2
+text2    309.9661602995, -200.0170588238, "95,64"
+pen     penAttribute_1
+text2    319.9667531995, -200.0170588238, "95,78"
+pen     penAttribute_2
+text2    319.9667531995, -200.0170588238, "95,79"
+pen     penAttribute_1
+text2    329.9664566995, -200.0170588238, "95,83"
+pen     penAttribute_2
+text2    329.9664566995, -200.0170588238, "95,92"
+pen     penAttribute_1
+text2    339.9686832995, -200.0170588238, "96,18"
+pen     penAttribute_2
+text2    339.9686832995, -200.0170588238, "96,16"
+pen     penAttribute_1
+text2    342.3169387495, -200.0170588238, "96,32"
+pen     penAttribute_2
+text2    342.3169387495, -200.0170588238, "96,26"
+pen     penAttribute_1
+text2    159.9686832995, -206.2053167205, "92,61"
+pen     penAttribute_2
+text2    159.9664566995, -206.2053167205, "92,59"
+pen     penAttribute_1
+text2    164.1149430694, -210.0170588238, "92,75"
+pen     penAttribute_2
+text2    164.1149430694, -210.0170588238, "92,87"
+pen     penAttribute_1
+text2    169.9667531995, -210.0170588238, "92,76"
+pen     penAttribute_2
+text2    169.9664566995, -210.0170588238, "92,95"
+pen     penAttribute_1
+text2    179.9664566995, -210.0170588238, "92,90"
+pen     penAttribute_2
+text2    179.9664566995, -210.0170588238, "93,05"
+pen     penAttribute_1
+text2    189.9664566995, -210.0170588238, "93,02"
+pen     penAttribute_2
+text2    189.9664566995, -210.0170588238, "93,08"
+pen     penAttribute_1
+text2    199.9686832995, -210.0170588238, "93,13"
+pen     penAttribute_2
+text2    199.9686832995, -210.0170588238, "93,18"
+pen     penAttribute_1
+text2    209.9664566995, -210.0170588238, "93,25"
+pen     penAttribute_2
+text2    209.9664566995, -210.0170588238, "93,23"
+pen     penAttribute_1
+text2    219.9664566995, -210.0170588238, "93,28"
+pen     penAttribute_2
+text2    219.9664566995, -210.0170588238, "93,35"
+pen     penAttribute_1
+text2    229.9664566995, -210.0170588238, "93,32"
+pen     penAttribute_2
+text2    229.9661602995, -210.0170588238, "93,48"
+pen     penAttribute_1
+text2    239.9664566995, -210.0170588238, "93,35"
+pen     penAttribute_2
+text2    239.9686832995, -210.0170588238, "93,81"
+pen     penAttribute_1
+text2    249.9664566995, -210.0170588238, "93,58"
+pen     penAttribute_2
+text2    249.9683868995, -210.0170588238, "94,15"
+pen     penAttribute_1
+text2    259.9683868995, -210.0170588238, "94,19"
+pen     penAttribute_2
+text2    259.9661602995, -210.0170588238, "94,50"
+pen     penAttribute_1
+text2    269.9661602995, -210.0170588238, "94,53"
+pen     penAttribute_2
+text2    269.9661602995, -210.0170588238, "94,62"
+pen     penAttribute_1
+text2    279.9661602995, -210.0170588238, "94,74"
+pen     penAttribute_2
+text2    279.9664567995, -210.0170588238, "94,87"
+pen     penAttribute_1
+text2    289.9667531995, -210.0170588238, "95,27"
+pen     penAttribute_2
+text2    289.9686832995, -210.0170588238, "95,19"
+pen     penAttribute_1
+text2    299.9661602995, -210.0170588238, "95,64"
+pen     penAttribute_2
+text2    299.9686832995, -210.0170588238, "95,51"
+pen     penAttribute_1
+text2    309.9667531995, -210.0170588238, "95,79"
+pen     penAttribute_2
+text2    309.9667531995, -210.0170588238, "95,67"
+pen     penAttribute_1
+text2    319.9664566995, -210.0170588238, "95,82"
+pen     penAttribute_2
+text2    319.9664566995, -210.0170588238, "95,82"
+pen     penAttribute_1
+text2    329.9664566995, -210.0170588238, "96,02"
+pen     penAttribute_2
+text2    329.9667531995, -210.0170588238, "95,97"
+pen     penAttribute_1
+text2    333.5415071345, -210.0170588238, "96,23"
+pen     penAttribute_2
+text2    333.5459603346, -210.0170588238, "96,11"
+pen     penAttribute_1
+text2    339.9664566995, -202.6955391005, "96,30"
+pen     penAttribute_2
+text2    339.9686832995, -202.6955391005, "96,21"
+pen     penAttribute_1
+text2    169.9664566995, -215.3942454408, "92,96"
+pen     penAttribute_2
+text2    169.9664566995, -215.3942454408, "93,00"
+pen     penAttribute_1
+text2    174.9992381813, -220.0170588238, "93,14"
+pen     penAttribute_2
+text2    174.9992381813, -220.0170588238, "93,14"
+pen     penAttribute_1
+text2    179.9686832995, -220.0170588238, "93,19"
+pen     penAttribute_2
+text2    179.9658638995, -220.0170588238, "93,44"
+pen     penAttribute_1
+text2    189.9664566995, -220.0170588238, "93,25"
+pen     penAttribute_2
+text2    189.9664566995, -220.0170588238, "93,38"
+pen     penAttribute_1
+text2    199.9664566995, -220.0170588238, "93,20"
+pen     penAttribute_2
+text2    199.9664566995, -220.0170588238, "93,36"
+pen     penAttribute_1
+text2    209.9664566995, -220.0170588238, "93,28"
+pen     penAttribute_2
+text2    209.9664566995, -220.0170588238, "93,36"
+pen     penAttribute_1
+text2    219.9686832995, -220.0170588238, "93,31"
+pen     penAttribute_2
+text2    219.9661602995, -220.0170588238, "93,49"
+pen     penAttribute_1
+text2    229.9664566995, -220.0170588238, "93,35"
+pen     penAttribute_2
+text2    229.9667531995, -220.0170588238, "93,87"
+pen     penAttribute_1
+text2    239.9664566995, -220.0170588238, "93,38"
+pen     penAttribute_2
+text2    239.9680904995, -220.0170588238, "94,14"
+pen     penAttribute_1
+text2    249.9667531995, -220.0170588238, "93,73"
+pen     penAttribute_2
+text2    249.9661602995, -220.0170588238, "94,36"
+pen     penAttribute_1
+text2    259.9658638995, -220.0170588238, "94,34"
+pen     penAttribute_2
+text2    259.9658638995, -220.0170588238, "94,54"
+pen     penAttribute_1
+text2    269.9664566995, -220.0170588238, "94,73"
+pen     penAttribute_2
+text2    269.9658638995, -220.0170588238, "94,64"
+pen     penAttribute_1
+text2    279.9686832995, -220.0170588238, "95,16"
+pen     penAttribute_2
+text2    279.9661602995, -220.0170588238, "94,89"
+pen     penAttribute_1
+text2    289.9686832995, -220.0170588238, "95,51"
+pen     penAttribute_2
+text2    289.9661602995, -220.0170588238, "95,24"
+pen     penAttribute_1
+text2    299.9664566995, -220.0170588238, "95,68"
+pen     penAttribute_2
+text2    299.9661602995, -220.0170588238, "95,54"
+pen     penAttribute_1
+text2    309.9661602995, -220.0170588238, "95,84"
+pen     penAttribute_2
+text2    309.9664566995, -220.0170588238, "95,69"
+pen     penAttribute_1
+text2    319.9661602995, -220.0170588238, "95,94"
+pen     penAttribute_2
+text2    319.9661602995, -220.0170588238, "95,84"
+pen     penAttribute_1
+text2    324.7680057196, -220.0170588238, "96,14"
+pen     penAttribute_2
+text2    324.7660755196, -220.0170588238, "96,05"
+pen     penAttribute_1
+text2    329.9686832995, -214.0909899897, "96,19"
+pen     penAttribute_2
+text2    329.9664566995, -214.0909899897, "96,06"
+pen     penAttribute_1
+text2    319.9664566995, -225.4864408789, "96,09"
+pen     penAttribute_2
+text2    319.9661602995, -225.4864408789, "96,04"
+pen     penAttribute_1
+text2    179.9664566995, -224.583174161, "93,30"
+pen     penAttribute_2
+text2    179.9658638995, -224.583174161, "93,44"
+pen     penAttribute_1
+text2    185.8796729931, -230.0170588238, "93,45"
+pen     penAttribute_2
+text2    185.8799693931, -230.0170588238, "93,50"
+pen     penAttribute_1
+text2    189.9661602995, -230.0170588238, "93,46"
+pen     penAttribute_2
+text2    189.9664566995, -230.0170588238, "93,50"
+pen     penAttribute_1
+text2    199.9683868995, -230.0170588238, "93,41"
+pen     penAttribute_2
+text2    199.9664566995, -230.0170588238, "93,50"
+pen     penAttribute_1
+text2    209.9686832995, -230.0170588238, "93,31"
+pen     penAttribute_2
+text2    209.9664566995, -230.0170588238, "93,50"
+pen     penAttribute_1
+text2    219.9661602995, -230.0170588238, "93,34"
+pen     penAttribute_2
+text2    219.9661602995, -230.0170588238, "93,94"
+pen     penAttribute_1
+text2    229.9664566995, -230.0170588238, "93,38"
+pen     penAttribute_2
+text2    229.9683868995, -230.0170588238, "94,18"
+pen     penAttribute_1
+text2    239.9661602995, -230.0170588238, "93,45"
+pen     penAttribute_2
+text2    239.9661602995, -230.0170588238, "94,39"
+pen     penAttribute_1
+text2    249.9661602995, -230.0170588238, "94,05"
+pen     penAttribute_2
+text2    249.9661602995, -230.0170588238, "94,52"
+pen     penAttribute_1
+text2    259.9661602995, -230.0170588238, "94,59"
+pen     penAttribute_2
+text2    259.9661602995, -230.0170588238, "94,60"
+pen     penAttribute_1
+text2    269.9661602995, -230.0170588238, "95,04"
+pen     penAttribute_2
+text2    269.9664566995, -230.0170588238, "94,70"
+pen     penAttribute_1
+text2    279.9661602995, -230.0170588238, "95,42"
+pen     penAttribute_2
+text2    279.9683868995, -230.0170588238, "94,91"
+pen     penAttribute_1
+text2    289.9664566995, -230.0170588238, "95,59"
+pen     penAttribute_2
+text2    289.9664566995, -230.0170588238, "95,28"
+pen     penAttribute_1
+text2    299.9667531995, -230.0170588238, "95,75"
+pen     penAttribute_2
+text2    299.9664566995, -230.0170588238, "95,56"
+pen     penAttribute_1
+text2    309.9664566995, -230.0170588238, "95,92"
+pen     penAttribute_2
+text2    309.9689796995, -230.0170588238, "95,71"
+pen     penAttribute_1
+text2    315.9906439047, -230.0170588238, "96,05"
+pen     penAttribute_2
+text2    315.9906439047, -230.0170588238, "96,03"
+pen     penAttribute_1
+text2    309.9664566995, -236.8818917682, "96,00"
+pen     penAttribute_2
+text2    309.9686832995, -236.8818917682, "96,01"
+pen     penAttribute_1
+text2    189.9664566995, -233.7721028812, "93,56"
+pen     penAttribute_2
+text2    189.9664566995, -233.7721028812, "93,56"
+pen     penAttribute_1
+text2    196.762927305, -240.0170588238, "93,79"
+pen     penAttribute_2
+text2    196.762630905, -240.0170588238, "93,74"
+pen     penAttribute_1
+text2    199.9667531995, -240.0170588238, "93,76"
+pen     penAttribute_2
+text2    199.9686832995, -240.0170588238, "93,81"
+pen     penAttribute_1
+text2    209.9664566995, -240.0170588238, "93,60"
+pen     penAttribute_2
+text2    209.9661602995, -240.0170588238, "94,00"
+pen     penAttribute_1
+text2    219.9661602995, -240.0170588238, "93,54"
+pen     penAttribute_2
+text2    219.9683868995, -240.0170588238, "94,16"
+pen     penAttribute_1
+text2    229.9664566995, -240.0170588238, "93,59"
+pen     penAttribute_2
+text2    229.9683868995, -240.0170588238, "94,31"
+pen     penAttribute_1
+text2    239.9664566995, -240.0170588238, "93,98"
+pen     penAttribute_2
+text2    239.9661602995, -240.0170588238, "94,47"
+pen     penAttribute_1
+text2    249.9658638995, -240.0170588238, "94,40"
+pen     penAttribute_2
+text2    249.9658638995, -240.0170588238, "94,64"
+pen     penAttribute_1
+text2    259.9661602995, -240.0170588238, "94,98"
+pen     penAttribute_2
+text2    259.9664567995, -240.0170588238, "94,67"
+pen     penAttribute_1
+text2    269.9664566995, -240.0170588238, "95,33"
+pen     penAttribute_2
+text2    269.9664566995, -240.0170588238, "94,76"
+pen     penAttribute_1
+text2    279.9664566995, -240.0170588238, "95,50"
+pen     penAttribute_2
+text2    279.9661602995, -240.0170588238, "94,93"
+pen     penAttribute_1
+text2    289.9664566995, -240.0170588238, "95,66"
+pen     penAttribute_2
+text2    289.9664566995, -240.0170588238, "95,33"
+pen     penAttribute_1
+text2    299.9664566995, -240.0170588238, "95,83"
+pen     penAttribute_2
+text2    299.9664566995, -240.0170588238, "95,58"
+pen     penAttribute_1
+text2    307.2152122897, -240.0170588238, "96,00"
+pen     penAttribute_2
+text2    307.2174388897, -240.0170588238, "96,01"
+pen     penAttribute_1
+text2    299.9664566995, -248.2773426574, "96,00"
+pen     penAttribute_2
+text2    299.9667531995, -248.2773426574, "95,97"
+pen     penAttribute_1
+text2    199.9664566995, -242.9610316015, "93,88"
+pen     penAttribute_2
+text2    199.9664566995, -242.9610316015, "93,96"
+pen     penAttribute_1
+text2    207.6494490169, -250.0170588238, "94,11"
+pen     penAttribute_2
+text2    207.6449958168, -250.0170588238, "94,29"
+pen     penAttribute_1
+text2    209.9706134996, -250.0170588238, "94,11"
+pen     penAttribute_2
+text2    209.9661602995, -250.0170588238, "94,38"
+pen     penAttribute_1
+text2    219.9683868995, -250.0170588238, "94,18"
+pen     penAttribute_2
+text2    219.9661602995, -250.0170588238, "94,50"
+pen     penAttribute_1
+text2    229.9661602995, -250.0170588238, "94,28"
+pen     penAttribute_2
+text2    229.9661602995, -250.0170588238, "94,50"
+pen     penAttribute_1
+text2    239.9683868995, -250.0170588238, "94,51"
+pen     penAttribute_2
+text2    239.9661602995, -250.0170588238, "94,50"
+pen     penAttribute_1
+text2    249.9661602995, -250.0170588238, "94,85"
+pen     penAttribute_2
+text2    249.9661602995, -250.0170588238, "94,74"
+pen     penAttribute_1
+text2    259.9664566995, -250.0170588238, "95,23"
+pen     penAttribute_2
+text2    259.9683868995, -250.0170588238, "94,81"
+pen     penAttribute_1
+text2    269.9683868995, -250.0170588238, "95,41"
+pen     penAttribute_2
+text2    269.9661602995, -250.0170588238, "94,83"
+pen     penAttribute_1
+text2    279.9667531995, -250.0170588238, "95,57"
+pen     penAttribute_2
+text2    279.9661602995, -250.0170588238, "94,96"
+pen     penAttribute_1
+text2    289.9664567995, -250.0170588238, "95,74"
+pen     penAttribute_2
+text2    289.9667531995, -250.0170588238, "95,37"
+pen     penAttribute_1
+text2    298.4397806748, -250.0170588238, "96,00"
+pen     penAttribute_2
+text2    298.4397806748, -250.0170588238, "95,96"
+pen     penAttribute_1
+text2    289.9664566995, -259.6727935467, "96,00"
+pen     penAttribute_2
+text2    289.9686832995, -259.6727935467, "95,91"
+pen     penAttribute_1
+text2    209.9683868995, -252.1499603217, "94,16"
+pen     penAttribute_2
+text2    209.9664567995, -252.1499603217, "94,37"
+pen     penAttribute_1
+text2    218.5273608287, -260.0170588238, "94,49"
+pen     penAttribute_2
+text2    218.5276572287, -260.0170588238, "94,60"
+pen     penAttribute_1
+text2    219.9661602995, -260.0170588238, "94,52"
+pen     penAttribute_2
+text2    219.9683868995, -260.0170588238, "94,61"
+pen     penAttribute_1
+text2    229.9658638995, -260.0170588238, "94,64"
+pen     penAttribute_2
+text2    229.9661602995, -260.0170588238, "94,63"
+pen     penAttribute_1
+text2    239.9664566995, -260.0170588238, "94,78"
+pen     penAttribute_2
+text2    239.9683868995, -260.0170588238, "94,61"
+pen     penAttribute_1
+text2    249.9686832995, -260.0170588238, "95,10"
+pen     penAttribute_2
+text2    249.9664567995, -260.0170588238, "94,87"
+pen     penAttribute_1
+text2    259.9664566995, -260.0170588238, "95,32"
+pen     penAttribute_2
+text2    259.9661602995, -260.0170588238, "94,96"
+pen     penAttribute_1
+text2    269.9661602995, -260.0170588238, "95,48"
+pen     penAttribute_2
+text2    269.9664567995, -260.0170588238, "94,97"
+pen     penAttribute_1
+text2    279.9664566995, -260.0170588238, "95,65"
+pen     penAttribute_2
+text2    279.9661602995, -260.0170588238, "94,99"
+pen     penAttribute_1
+text2    289.6643490598, -260.0170588238, "96,00"
+pen     penAttribute_2
+text2    289.6665756599, -260.0170588238, "95,91"
+pen     penAttribute_1
+text2    280.8889174449, -270.0170588238, "96,00"
+pen     penAttribute_2
+text2    280.8889174449, -270.0170588238, "95,86"
+pen     penAttribute_1
+text2    219.9661602995, -261.3388890419, "94,56"
+pen     penAttribute_2
+text2    219.9661602995, -261.3388890419, "94,65"
+pen     penAttribute_1
+text2    229.4125452406, -270.0170588238, "94,91"
+pen     penAttribute_2
+text2    229.4100222406, -270.0170588238, "94,94"
+pen     penAttribute_1
+text2    229.9683868995, -270.0170588238, "94,91"
+pen     penAttribute_2
+text2    229.9658638995, -270.0170588238, "94,94"
+pen     penAttribute_1
+text2    239.9664566995, -270.0170588238, "95,06"
+pen     penAttribute_2
+text2    239.9661602995, -270.0170588238, "94,85"
+pen     penAttribute_1
+text2    249.9664566995, -270.0170588238, "95,22"
+pen     penAttribute_2
+text2    249.9664566995, -270.0170588238, "95,06"
+pen     penAttribute_1
+text2    259.9664566995, -270.0170588238, "95,39"
+pen     penAttribute_2
+text2    259.9664566995, -270.0170588238, "95,06"
+pen     penAttribute_1
+text2    269.9664566995, -270.0170588238, "95,56"
+pen     penAttribute_2
+text2    269.9664566995, -270.0170588238, "95,09"
+pen     penAttribute_1
+text2    279.9664566995, -270.0170588238, "95,95"
+pen     penAttribute_2
+text2    279.9667531995, -270.0170588238, "95,75"
+pen     penAttribute_1
+text2    279.9664566995, -271.0682444359, "96,00"
+pen     penAttribute_2
+text2    279.9664566995, -271.0682444359, "95,86"
+pen     penAttribute_1
+text2    239.9664566995, -279.7167464824, "95,33"
+pen     penAttribute_2
+text2    239.9664566995, -279.7167464824, "95,28"
+pen     penAttribute_1
+text2    229.9661602995, -270.5278177621, "94,93"
+pen     penAttribute_2
+text2    229.9661602995, -270.5278177621, "94,96"
+pen     penAttribute_1
+text2    240.2920457587, -280.016200308, "95,34"
+pen     penAttribute_2
+text2    240.2923421587, -280.016200308, "95,30"
+pen     penAttribute_1
+text2    249.9667531995, -280.0170588238, "95,37"
+pen     penAttribute_2
+text2    249.9664566995, -280.0170588238, "95,26"
+pen     penAttribute_1
+text2    259.9664567995, -280.0170588238, "95,47"
+pen     penAttribute_2
+text2    259.9667531995, -280.0170588238, "95,37"
+pen     penAttribute_1
+text2    269.9664566995, -280.0170588238, "95,88"
+pen     penAttribute_2
+text2    269.9686832995, -280.0170588238, "95,61"
+pen     penAttribute_1
+text2    272.1134858299, -280.0170588238, "96,00"
+pen     penAttribute_2
+text2    272.1134858299, -280.0170588238, "95,89"
+pen     penAttribute_1
+text2    269.9664566996, -282.4613352506, "96,00"
+pen     penAttribute_2
+text2    269.9664566996, -282.4613352506, "95,90"
+pen     penAttribute_1
+text2    249.9664566995, -288.9056752026, "95,62"
+pen     penAttribute_2
+text2    249.9664566995, -288.9056752026, "95,63"
+pen     penAttribute_1
+text2    251.1759378643, -290.0170588238, "95,65"
+pen     penAttribute_2
+text2    251.1759378643, -290.0170588238, "95,66"
+pen     penAttribute_1
+text2    259.9686832995, -290.0170588238, "95,81"
+pen     penAttribute_2
+text2    259.9667531995, -290.0170588238, "95,57"
+pen     penAttribute_1
+text2    263.338054215, -290.0170588238, "96,00"
+pen     penAttribute_2
+text2    263.340280815, -290.0170588238, "95,91"
+pen     penAttribute_1
+text2    259.9664566995, -293.8591462144, "96,00"
+pen     penAttribute_2
+text2    259.9664566995, -293.8591462144, "96,00"
+pen     penAttribute_1
+text2    257.9088490432, -296.203882914, "96,00"
+pen     penAttribute_2
+text2    257.9110756432, -296.203882914, "96,01"
+pen     penAttribute_1
+text2    191.4709545184, -105.0173664125, "91,51"
+pen     penAttribute_2
+text2    191.4687279183, -105.0173664125, "91,56"
+pen     penAttribute_1
+text2    120.588454122, -170.0170588238, "91,21"
+pen     penAttribute_2
+text2    120.585931122, -170.0170588238, "91,24"
+pen     penAttribute_1
+text2    17.64721039228, -75.42712973026, "87,41"
+pen     penAttribute_2
+text2    17.64498389225, -75.42712973026, "87,40"
+pen     penAttribute_1
+text2    -0.03354330049983, -0.01705882378406, "99,99"
