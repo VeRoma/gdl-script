@@ -11,62 +11,20 @@ const outputMassFilePath = path.join(__dirname, "code-mass.gdl");
 const outputMassTableFilePath = path.join(__dirname, "code-mass-table.gdl");
 
 //Функция парсинга данных из файла с GDL-кодом
-const parseGDLCode = (gdlCode) => {
-  // удалим все строки, содержащие "pen"
-  //const lines = gdlCode.filter((line) => !line.includes("pen"));
+// Вместо .pop()
+const originIndex = cleanedLines.findIndex(line => line.includes('"999,999"'));
 
-  // найдем строки, содержащие "text2"
-  const text2Lines = gdlCode.filter((line) => line.includes("text2"));
-
-  // удалим из строк символы "text2" и пробелы в начале строки
-  const cleanedLines = text2Lines.map((line) =>
-    line.replace(/text2/g, "").trim()
-  );
-
-  let x, y;
-
-  // из последней строки получим x и y, при помощи регулярного выражения
-  const match = cleanedLines[cleanedLines.length - 1].match(
-    /(-?\d+\.\d+),\s?(-?\d+\.\d+)/
-  );
+if (originIndex > -1) {
+  const originLine = cleanedLines[originIndex];
+  const match = originLine.match(/(-?\d+\.\d+),\s?(-?\d+\.\d+)/);
   if (match) {
     x = parseFloat(match[1]);
     y = parseFloat(match[2]);
   }
-  // И удалим последнюю строку из массива
-  cleanedLines.pop();
-
-  cleanedLines.forEach((line, index) => {
-    const match = line.match(/(-?\d+\.\d+),\s?(-?\d+\.\d+)/);
-    if (match) {
-      const newX = parseFloat(match[1]) - x;
-      const newY = parseFloat(match[2]) - y;
-      cleanedLines[index] = line.replace(
-        /(-?\d+\.\d+),\s?(-?\d+\.\d+)/,
-        `${newX.toFixed(2)}, ${newY.toFixed(2)}`
-      );
-    }
-  });
-
-  // выведи в консоль максимальное и минимальное значение по x и y
-  const xValues = cleanedLines.map((line) => parseFloat(line.split(",")[0]));
-  const yValues = cleanedLines.map((line) => parseFloat(line.split(",")[1]));
-  const minX = Math.min(...xValues);
-  const maxX = Math.max(...xValues);
-  const minY = Math.min(...yValues);
-  const maxY = Math.max(...yValues);
-  // console.log("minX: ", minX);
-  // console.log("maxX: ", maxX);
-  // console.log("minY: ", minY);
-  // console.log("maxY: ", maxY);
-
-  // сохраним text2Lines построчно в файл inputDataFilePath
-  fs.writeFileSync(inputCoordsAndHeightsFilePath, cleanedLines.join("\n"));
-
-  //
-
-  return text2Lines;
-};
+  
+  // Удаляем строку с условным нулем из массива
+  cleanedLines.splice(originIndex, 1);
+}
 
 // Функция чтения данных из файла
 const getDataFromFile = (filePath) => {
