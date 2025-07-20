@@ -1,15 +1,24 @@
 {
-	"name": "googleapis-sheets-app",
-	"version": "1.0.0",
-	"main": "index.js",
-	"scripts": {
-		"start": "node script-gdl.js"
-	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC",
-	"description": "",
-	"dependencies": {
-		
-	}
+  "name": "gdl-script",
+  "version": "2.0.0",
+  "description": "Скрипт для расчета объемов земляных работ по данным GDL с точным учетом пограничных ячеек",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VeRoma/gdl-script.git"
+  },
+  "author": "VeRoma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VeRoma/gdl-script/issues"
+  },
+  "homepage": "https://github.com/VeRoma/gdl-script#readme",
+  "dependencies": {
+    "concaveman": "^1.2.1"
+    
+  }
 }
