@@ -1,0 +1,37 @@
+# Dependencies
+# ---
+# Игнорируем папку с установленными пакетами Node.js
+/node_modules
+
+# Generated files
+# ---
+# Игнорируем файлы, которые генерируются во время выполнения скрипта
+/input.data
+/code.gdl
+/code-mass.gdl
+/code-mass-table.gdl
+/code-areas.gdl
+
+# Credentials
+# ---
+# ОБЯЗАТЕЛЬНО игнорируем файлы с ключами и паролями
+/credentials.json
+
+# Log files
+# ---
+# Игнорируем логи ошибок npm и yarn
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS generated files
+# ---
+# Игнорируем системные файлы, создаваемые macOS и Windows
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
