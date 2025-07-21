@@ -1,7 +1,7 @@
 # Dependencies
 # ---
 # Игнорируем папку с установленными пакетами Node.js
-/node_modules
+#/node_modules
 
 # Generated files
 # ---
