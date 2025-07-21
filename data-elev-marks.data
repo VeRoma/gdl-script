@@ -26973,9 +26973,7 @@ richtext2		242.6610210153, -55.72643597416, "AC_TEXTBLOCK_23115"
 
 paragraph		"AC_PRG_23116"      1,            0,            0,            0,            1
     set style "AC_STYLE_1"
-        "999"
-        "."
-        "99"
+        "999.99"
 endparagraph
 textblock		"AC_TEXTBLOCK_23116"            0,      7,            0,            1,            1,            1, 
         "AC_PRG_23116"

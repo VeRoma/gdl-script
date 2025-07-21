@@ -2,81 +2,71 @@ const fs = require('fs');
 const path = require('path');
 
 /**
- * Эта функция парсит GDL-файл сложного формата, где данные о точке
- * (координаты и высота) разнесены по разным блокам.
- * Используется надежный двухпроходный алгоритм.
+ * Парсит GDL-файл, используя упрощенный последовательный подход.
+ * Предполагается, что блок с координатами (`richtext2`) всегда следует
+ * за соответствующим блоком с высотой (`paragraph`).
  * @param {string} fileContent - Содержимое GDL-файла в виде строки.
  * @returns {Array<object>} - Массив объектов точек, каждый вида {x, y, z}.
  */
-function parseRichTextData(fileContent) {
+function parseRichTextDataSimplified(fileContent) {
     const lines = fileContent.split('\n');
-    const pointData = {};
-    const links = {};
     const finalPoints = [];
+    let lastFoundElevation = null; // Переменная для временного хранения последней найденной высоты
 
-    // --- ПЕРВЫЙ ПРОХОД: Сбор всех данных о высотах и связях ---
-    // На этом этапе мы не пытаемся собрать точку целиком, только собираем "запчасти".
-    
+    console.log('\n--- НАЧАЛО ДЕТАЛЬНОГО ЛОГИРОВАНИЯ (Упрощенный метод) ---');
+
     for (let i = 0; i < lines.length; i++) {
         const line = lines[i].trim();
 
-        // 1. Находим параграф и извлекаем его ID и высоту
+        // 1. Ищем блок параграфа, чтобы найти высоту
         if (line.startsWith('paragraph')) {
-            const paragraphIdMatch = line.match(/"(.*?)"/);
-            if (paragraphIdMatch) {
-                const paragraphId = paragraphIdMatch[1];
-                let j = i + 1;
-                while (j < lines.length && !lines[j].trim().startsWith('endparagraph')) {
-                    const elevationLine = lines[j].trim();
-                    const elevationMatch = elevationLine.match(/^"(\d+\.\d+)"$/);
-                    if (elevationMatch) {
-                        pointData[paragraphId] = { z: parseFloat(elevationMatch[1]) };
-                        break; 
-                    }
-                    j++;
+            console.log(`[Шаг 1] Обнаружен блок 'paragraph' на строке ${i + 1}. Поиск высоты...`);
+            let j = i + 1;
+            let foundElevationInBlock = false;
+            while (j < lines.length && !lines[j].trim().startsWith('endparagraph')) {
+                const elevationLine = lines[j].trim();
+                // Ищем строку, которая содержит только число в кавычках
+                const elevationMatch = elevationLine.match(/^"(\d+(\.\d+)?)"$/);
+                if (elevationMatch) {
+                    lastFoundElevation = parseFloat(elevationMatch[1]);
+                    console.log(`    -> Найдена и временно сохранена высота: ${lastFoundElevation}`);
+                    foundElevationInBlock = true;
+                    break; // Нашли, выходим из внутреннего цикла
                 }
+                j++;
+            }
+            if (!foundElevationInBlock) {
+                 console.log(`    -> Внимание: Высота в этом блоке 'paragraph' не найдена.`);
             }
         }
 
-        // 2. Находим текстовый блок и связываем его ID с ID параграфа
-        if (line.startsWith('textblock')) {
-            const idMatches = line.match(/"(.*?)"/g);
-            if (idMatches && idMatches.length >= 2) {
-                const textblockId = idMatches[0].replace(/"/g, '');
-                const paragraphId = idMatches[1].replace(/"/g, '');
-                links[textblockId] = paragraphId;
+        // 2. Ищем блок с координатами
+        if (line.startsWith('richtext2')) {
+             console.log(`[Шаг 2] Обнаружен блок 'richtext2' на строке ${i + 1}.`);
+            // Ищем два вещественных числа после команды richtext2
+            const richTextMatch = line.match(/richtext2\s*(-?\d+\.?\d*),\s*(-?\d+\.?\d*)/);
+
+            if (richTextMatch) {
+                const x = parseFloat(richTextMatch[1]);
+                const y = parseFloat(richTextMatch[2]);
+                 console.log(`    -> Найдены координаты: x=${x}, y=${y}`);
+
+                // 3. Если у нас есть и высота, и координаты, создаем точку
+                if (lastFoundElevation !== null) {
+                    finalPoints.push({ x, y, z: lastFoundElevation });
+                    console.log(`    -> УСПЕХ: Точка собрана! { x: ${x}, y: ${y}, z: ${lastFoundElevation} }`);
+                    // Сбрасываем высоту, чтобы она не использовалась для следующей точки
+                    lastFoundElevation = null;
+                } else {
+                    console.log(`    -> ОШИБКА СБОРКИ: Координаты найдены, но для них нет сохраненной высоты.`);
+                }
+            } else {
+                 console.log(`    -> Внимание: Не удалось извлечь координаты из строки 'richtext2'.`);
             }
         }
     }
 
-    // --- ВТОРОЙ ПРОХОД: Сборка точек с использованием собранных данных ---
-    // Теперь, когда у нас есть все высоты и связи, мы можем уверенно собирать точки.
-
-    for (const line of lines) {
-        const trimmedLine = line.trim();
-        if (trimmedLine.startsWith('richtext2')) {
-            const parts = trimmedLine.replace(/richtext2/g, '').trim().split(',');
-            const textblockIdMatch = trimmedLine.match(/"(.*?)"/);
-
-            if (parts.length >= 2 && textblockIdMatch) {
-                const x = parseFloat(parts[0]);
-                const y = parseFloat(parts[1]);
-                const textblockId = textblockIdMatch[1];
-                
-                const paragraphId = links[textblockId];
-
-                if (paragraphId && pointData[paragraphId]) {
-                    // Успех! У нас есть все данные для сборки точки.
-                    finalPoints.push({
-                        x: x,
-                        y: y,
-                        z: pointData[paragraphId].z
-                    });
-                }
-            }
-        }
-    }
-
+    console.log('--- КОНЕЦ ДЕТАЛЬНОГО ЛОГИРОВАНИЯ ---\n');
     return finalPoints;
 }
 
@@ -97,7 +87,8 @@ function processFile() {
         return;
     }
 
-    const allPoints = parseRichTextData(fileContent);
+    // Используем новую, упрощенную функцию парсинга
+    const allPoints = parseRichTextDataSimplified(fileContent);
     console.log(`\nИтог: Найдено и распознано ${allPoints.length} полных точек.`);
 
     if (allPoints.length === 0) {
